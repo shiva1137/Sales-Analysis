@@ -1,0 +1,1001 @@
+Date,Sales Representative,Product/Service,Region/Location,Customer,Sales Amount (INR),Units Sold,Sales Channel,Discount Offered (INR or %),Profit (INR),Cost of Goods Sold (COGS) (INR),Order Status,Payment Method,Lead Source
+2024-09-08,Amit,Laptop,Lucknow,Arjun Sama,98171,1,Retail,22378.127518133766,8986.954946646369,66805.91753521987,Shipped,Cash on Delivery (COD),Advertisement
+2024-08-06,Sushma,Bluetooth Speaker,Delhi,Garima Dhillon,725,5,Online,375.0,94.76179026358909,255.2382097364109,Cancelled,Credit Card,Direct Visit
+2024-07-09,Vikram,Air Conditioner,Delhi,Tripti Dua,30520,1,Online,6049.33876639088,4961.6504662324805,19509.01076737664,Cancelled,UPI,Direct Visit
+2024-09-14,Sushma,Refrigerator,Bangalore,Mohini Bail,45625,2,Retail,10084.036560828148,11165.405358936076,24375.558080235776,Cancelled,UPI,Social Media
+2024-02-19,Sushma,Air Conditioner,Kolkata,Nidhi Bera,41706,1,Online,3020.0,15643.441451410836,23042.558548589164,Returned,Debit Card,Email
+2024-09-25,Amit,Camera,Delhi,Garima Srivastava,67002,2,Online,6926.275340702707,25603.12107846407,34472.60358083322,Shipped,Cash on Delivery (COD),Referral
+2024-03-02,Neha,Air Conditioner,Lucknow,Bina Kant,26473,1,Online,689.0,11287.554384396359,14496.445615603641,Completed,Debit Card,Advertisement
+2024-03-17,Sushma,Camera,Chennai,Netra Kashyap,24463,1,Retail,2209.0,7415.193454675904,14838.806545324096,Pending,Net Banking,Referral
+2024-12-13,Manoj,Laptop,Bangalore,Anthony Bandi,89635,2,Retail,4422.0,26066.801208832025,59146.198791167975,Completed,Cash on Delivery (COD),Search Engine
+2024-11-13,Amit,Washing Machine,Kolkata,Chanakya Mannan,29181,1,Retail,1041.0,12252.937785657361,15887.062214342639,Pending,Net Banking,Referral
+2024-11-05,Karan,Laptop,Bangalore,Gayathri Shetty,65980,2,Retail,937.0,24304.61109903342,40738.38890096658,Pending,Debit Card,Social Media
+2024-09-05,Priya,Camera,Jaipur,Rehaan Rajan,22001,2,Retail,1862.264307326493,7209.098566847893,12929.637125825613,Completed,UPI,Referral
+2024-04-03,Anjali,Headphones,Pune,Andrew Desai,1658,5,Retail,102.73366237674995,868.8691751512646,686.3971624719854,Cancelled,Debit Card,Advertisement
+2024-10-14,Karan,Smartwatch,Hyderabad,Jalsa Kunda,20182,1,Retail,3453.6851058048624,4959.306865458061,11769.008028737077,Pending,Credit Card,Advertisement
+2024-08-21,Anjali,Headphones,Jaipur,Michael Khurana,8514,2,Retail,508.0,3036.4909890995896,4969.50901090041,Cancelled,Net Banking,Referral
+2024-04-03,Anjali,Washing Machine,Lucknow,Gunbir Raman,44462,1,Online,3367.8456959788405,16527.92440081977,24566.229903201387,Cancelled,Net Banking,Referral
+2024-09-13,Vikram,Camera,Jaipur,Hema Varughese,36996,1,Online,2104.5589415252584,10231.073739334672,24660.36731914007,Shipped,Credit Card,Direct Visit
+2025-01-06,Ravi,Refrigerator,Kolkata,Samesh Bawa,38326,1,Online,2634.0,11678.356602018415,24013.643397981585,Returned,UPI,Advertisement
+2024-03-26,Sushma,Camera,Chennai,Nikita Bera,88633,2,Retail,4374.0,31110.719378446913,53148.28062155309,Completed,Net Banking,Social Media
+2024-12-09,Vikram,Camera,Mumbai,Michael Khurana,76367,2,Online,2654.0,21987.50694281714,51725.49305718286,Cancelled,Net Banking,Email
+2024-02-25,Sushma,Bluetooth Speaker,Delhi,Gayathri Shetty,7232,2,Retail,1482.2357465070031,2924.197034816498,2825.5672186764987,Returned,Credit Card,Advertisement
+2024-05-25,Anjali,Camera,Delhi,Jackson Sura,46826,2,Retail,3131.350974267864,11638.763159852768,32055.88586587937,Shipped,Net Banking,Email
+2024-08-03,Manoj,Air Conditioner,Jaipur,Jairaj Sankaran,57485,1,Online,3657.520706236339,18322.250737278366,35505.228556485294,Completed,Credit Card,Advertisement
+2024-07-22,Priya,Laptop,Chennai,Manan Gopal,64998,2,Retail,3796.0,18372.67487795725,42829.32512204275,Pending,Cash on Delivery (COD),Email
+2024-08-31,Rajesh,Bluetooth Speaker,Jaipur,Ubika Khatri,2890,2,Online,282.9244453053302,1396.6287965051035,1210.4467581895663,Completed,UPI,Search Engine
+2024-11-04,Neha,Smartwatch,Chennai,Nidra Varughese,8082,1,Online,1992.0,1338.01228029696,4751.98771970304,Returned,Credit Card,Direct Visit
+2024-01-20,Sushma,Laptop,Hyderabad,Lopa Vala,89785,2,Retail,1298.0,27213.155241666835,61273.844758333165,Shipped,UPI,Advertisement
+2024-07-17,Neha,Tablet,Bangalore,Harrison Shere,31605,2,Online,4941.0,10007.391070991482,16656.60892900852,Shipped,Cash on Delivery (COD),Search Engine
+2024-09-03,Manoj,Washing Machine,Mumbai,Anthony Bandi,24935,1,Online,926.0,12735.868552429147,11273.131447570853,Cancelled,Net Banking,Advertisement
+2024-06-03,Vikram,Camera,Delhi,Niharika Sachdeva,88918,2,Retail,1003.0,40113.930372778246,47801.069627221754,Returned,UPI,Referral
+2024-01-28,Manoj,Headphones,Bangalore,Niharika Sachdeva,6176,3,Online,918.7734788560431,1634.476740998614,3622.749780145343,Returned,UPI,Advertisement
+2024-02-22,Rajesh,Smartwatch,Jaipur,Triya Mohanty,3656,1,Retail,364.625008013599,1411.7427480049223,1879.6322439814787,Completed,Debit Card,Advertisement
+2024-03-20,Neha,Bluetooth Speaker,Ahmedabad,Harrison Shere,6887,3,Online,1688.5272664184952,1444.6793327084126,3753.793400873092,Cancelled,Debit Card,Social Media
+2024-11-15,Priya,Smartphone,Mumbai,Dalbir Karan,30538,3,Retail,792.0,10928.194782694121,18817.80521730588,Pending,Net Banking,Referral
+2024-05-26,Sushma,Smartwatch,Delhi,Chakrika Kadakia,19390,1,Retail,1792.3821248166976,8695.542439267741,8902.075435915562,Completed,Net Banking,Social Media
+2024-02-08,Anjali,Bluetooth Speaker,Kolkata,Brijesh Bandi,3813,4,Retail,229.54892811021995,2066.2750798450465,1517.1759920447334,Shipped,Debit Card,Email
+2024-06-20,Amit,Washing Machine,Mumbai,Jairaj Sankaran,26501,2,Online,6557.207902476065,6939.226479656191,13004.565617867744,Shipped,Debit Card,Referral
+2024-12-17,Sushma,Laptop,Pune,Manan Gopal,88420,1,Retail,21253.418584475807,1469.1684198435069,65697.41299568069,Completed,Debit Card,Search Engine
+2024-07-26,Sushma,Tablet,Jaipur,Falan Mital,14283,1,Online,1303.0,5006.965359268463,7973.034640731537,Shipped,Net Banking,Advertisement
+2024-09-14,Anjali,Bluetooth Speaker,Chennai,Dalbir Karan,2273,3,Retail,3833.0,-2549.785892244591,989.7858922445912,Cancelled,Net Banking,Direct Visit
+2025-01-16,Priya,Camera,Chennai,Ekavir Warrior,16280,2,Online,2362.0,5623.935864060002,8294.064135939998,Cancelled,UPI,Email
+2024-11-03,Ravi,Air Conditioner,Kolkata,Alka Gupta,65391,1,Online,13217.287870835678,15449.494379066362,36724.21775009796,Pending,UPI,Search Engine
+2024-09-15,Vikram,Headphones,Hyderabad,Yadavi Bakshi,1368,2,Retail,3658.0,-3047.693959406147,757.6939594061466,Returned,Credit Card,Search Engine
+2024-01-30,Ravi,Washing Machine,Chennai,Saumya Ratti,45756,1,Retail,1267.0,21020.41880792333,23468.58119207667,Cancelled,Cash on Delivery (COD),Social Media
+2024-05-06,Sushma,Bluetooth Speaker,Kolkata,Orinder Anand,1495,1,Retail,4704.0,-3971.4541759473523,762.4541759473525,Completed,Cash on Delivery (COD),Search Engine
+2024-04-05,Priya,Washing Machine,Lucknow,Shaurya Nigam,19679,2,Retail,4543.410622791903,4044.811809265567,11090.77756794253,Cancelled,Net Banking,Search Engine
+2024-07-17,Anjali,Air Conditioner,Bangalore,Lopa Vala,41741,2,Online,3844.0,15898.096036521874,21998.903963478126,Returned,Credit Card,Direct Visit
+2024-05-12,Sushma,Washing Machine,Chennai,Vedhika Ram,33493,1,Online,2817.0,12955.272736903284,17720.727263096716,Pending,Debit Card,Email
+2024-07-08,Manoj,Headphones,Kolkata,Triya Mohanty,5633,4,Retail,4646.0,-2003.1385366868458,2990.138536686846,Shipped,Net Banking,Social Media
+2024-10-30,Amit,Laptop,Hyderabad,Onkar Sodhi,147746,2,Retail,23093.05205697952,15397.522217816106,109255.42572520438,Returned,Credit Card,Direct Visit
+2024-05-25,Karan,Washing Machine,Pune,Bhavna Nath,25933,1,Online,4452.972661604918,6319.567365909422,15160.45997248566,Cancelled,Credit Card,Referral
+2024-05-31,Rajesh,Smartwatch,Jaipur,Gunbir Raman,23718,2,Online,2226.614589369044,7966.947170938391,13524.438239692565,Shipped,Credit Card,Email
+2024-03-25,Amit,Tablet,Lucknow,Gayathri Shetty,17808,2,Online,4033.0,3605.634804474561,10169.365195525439,Shipped,Debit Card,Search Engine
+2024-09-02,Vikram,Laptop,Chennai,Chanakya Mannan,119957,2,Retail,1964.0,29291.439844593755,88701.56015540625,Returned,Debit Card,Email
+2024-08-05,Manoj,Refrigerator,Chennai,Chanakya Mannan,27450,2,Online,5346.269543945344,4929.147073485792,17174.583382568864,Cancelled,UPI,Search Engine
+2024-05-01,Ravi,Camera,Mumbai,Samuel Bedi,93805,2,Retail,2675.0,28325.908679985296,62804.091320014704,Pending,Cash on Delivery (COD),Referral
+2024-07-11,Sushma,Washing Machine,Chennai,Onkar Sodhi,44093,2,Retail,10260.972752295778,10593.95274479284,23238.074502911382,Pending,UPI,Direct Visit
+2024-10-29,Sushma,Air Conditioner,Lucknow,Nikita Bera,28178,1,Online,1315.0,9378.00381336777,17484.99618663223,Completed,Cash on Delivery (COD),Social Media
+2024-12-25,Anjali,Air Conditioner,Mumbai,Vedant Saran,36592,1,Online,2017.1750133603018,15118.59707380256,19456.227912837137,Completed,Debit Card,Search Engine
+2024-04-19,Priya,Refrigerator,Mumbai,Falan Mital,28105,2,Online,4493.424040227797,7291.3145142054655,16320.261445566737,Pending,Debit Card,Email
+2024-05-26,Rajesh,Laptop,Lucknow,Ryan Konda,104660,2,Online,2039.0,26482.678978649157,76138.32102135084,Returned,Net Banking,Advertisement
+2024-03-17,Karan,Camera,Jaipur,Bina Kant,38803,2,Retail,7232.269254367748,6893.998699839696,24676.732045792556,Completed,Credit Card,Referral
+2024-09-02,Ravi,Laptop,Hyderabad,Vedhika Ram,119174,1,Online,10770.474011610298,21029.804068057383,87373.72192033232,Cancelled,Credit Card,Direct Visit
+2024-11-14,Anjali,Air Conditioner,Hyderabad,Ubika Khatri,53475,1,Online,5721.298016995644,20464.030887487806,27289.67109551655,Completed,Debit Card,Search Engine
+2024-08-22,Amit,Washing Machine,Jaipur,Bhavna Nath,29516,1,Online,1646.0,12719.675813753227,15150.324186246773,Shipped,UPI,Direct Visit
+2024-10-02,Amit,Camera,Ahmedabad,Balhaar Nadig,51522,1,Retail,4817.0,12441.792709050744,34263.207290949256,Completed,Credit Card,Email
+2024-12-29,Manoj,Tablet,Hyderabad,Kalpit Sarkar,43438,2,Retail,495.0,16602.361972680577,26340.638027319423,Completed,UPI,Search Engine
+2024-06-27,Sushma,Bluetooth Speaker,Delhi,Orinder Anand,1212,3,Retail,161.46595422857044,509.8177117897766,540.716333981653,Cancelled,Credit Card,Referral
+2024-11-09,Manoj,Washing Machine,Pune,Jairaj Sankaran,27861,2,Retail,2380.0,9875.196054269447,15605.803945730553,Completed,Net Banking,Social Media
+2024-08-18,Ravi,Air Conditioner,Pune,Zaid Tak,50812,2,Retail,5572.6040052149665,13551.829906595787,31687.566088189247,Completed,Cash on Delivery (COD),Referral
+2024-08-06,Neha,Bluetooth Speaker,Ahmedabad,Yoshita Misra,8833,2,Online,1376.3058038886356,4306.32983141538,3150.364364695985,Pending,Cash on Delivery (COD),Referral
+2024-03-02,Amit,Tablet,Jaipur,Jairaj Sankaran,10704,1,Retail,1575.0,3543.1844830492682,5585.815516950732,Shipped,Net Banking,Email
+2024-10-30,Anjali,Smartwatch,Lucknow,Yoshita Misra,5657,1,Online,1425.0,1516.175486166303,2715.824513833697,Returned,Net Banking,Referral
+2024-03-01,Ravi,Refrigerator,Chennai,Zansi Shankar,28785,2,Online,2423.761867633653,9715.398009498971,16645.840122867376,Returned,Cash on Delivery (COD),Email
+2024-03-06,Rajesh,Air Conditioner,Jaipur,Kalpit Sarkar,54606,1,Retail,7742.119960151223,19517.39380146056,27346.486238388217,Completed,Cash on Delivery (COD),Direct Visit
+2024-08-29,Rajesh,Bluetooth Speaker,Jaipur,Lopa Vala,1920,2,Retail,205.94394342992967,1009.0896200193979,704.9664365506723,Pending,Cash on Delivery (COD),Direct Visit
+2024-12-19,Amit,Smartwatch,Kolkata,Fitan Hans,17959,1,Retail,3519.7832485811145,4610.228954034719,9828.987797384167,Returned,UPI,Search Engine
+2024-02-08,Karan,Tablet,Delhi,Arjun Sama,50474,1,Online,728.0,17258.26612110773,32487.73387889227,Cancelled,UPI,Email
+2024-10-27,Priya,Washing Machine,Mumbai,Garima Srivastava,39637,2,Online,5390.218587296907,15796.595523942375,18450.18588876072,Completed,UPI,Direct Visit
+2024-09-26,Karan,Air Conditioner,Jaipur,Lajita Balasubramanian,62958,1,Online,14371.873005195184,12702.209335745576,35883.91765905924,Completed,Net Banking,Direct Visit
+2024-10-26,Sushma,Laptop,Pune,Chaitanya Sachar,89497,2,Retail,1733.0,25892.80269709185,61871.19730290815,Returned,UPI,Advertisement
+2024-11-01,Karan,Bluetooth Speaker,Hyderabad,Ekiya Palan,5110,3,Online,473.33682149536054,2821.235245508865,1815.4279329957744,Cancelled,Credit Card,Search Engine
+2024-12-20,Rajesh,Smartphone,Kolkata,Yadavi Bakshi,38481,4,Online,7994.291201247087,6349.639081162954,24137.06971758996,Shipped,Cash on Delivery (COD),Referral
+2024-11-14,Ravi,Refrigerator,Jaipur,Samesh Bawa,49683,2,Online,6350.6207222104495,17290.134124343265,26042.245153446285,Shipped,Net Banking,Search Engine
+2024-03-04,Priya,Headphones,Lucknow,Bakhshi Subramanian,6095,2,Retail,1133.7953973869649,2485.7963496352136,2475.4082529778216,Pending,Net Banking,Search Engine
+2024-10-01,Priya,Laptop,Pune,Netra Kashyap,55896,2,Retail,10136.28906247528,4496.098224432459,41263.61271309226,Shipped,UPI,Referral
+2024-12-05,Manoj,Tablet,Bangalore,Ubika Kari,23075,2,Retail,414.0,9635.257072979031,13025.742927020969,Completed,Net Banking,Referral
+2024-08-31,Anjali,Camera,Bangalore,Jairaj Sankaran,57090,2,Retail,4707.0,15653.41170967403,36729.58829032597,Shipped,Credit Card,Search Engine
+2024-12-28,Sushma,Air Conditioner,Delhi,Bahadurjit Sahni,50447,1,Online,4351.928002477752,17005.468744180194,29089.603253342055,Shipped,Net Banking,Email
+2024-12-10,Rajesh,Refrigerator,Jaipur,Vritti Kapoor,63646,2,Online,3471.2344859434997,23473.795245960184,36700.97026809632,Shipped,Net Banking,Social Media
+2024-10-30,Karan,Smartphone,Chennai,Samesh Bawa,57170,1,Retail,6300.370171656217,11445.290868721768,39424.338959622015,Shipped,UPI,Direct Visit
+2024-04-09,Vikram,Smartphone,Jaipur,Farhan Wali,24738,1,Retail,3314.853273026497,6747.682691593495,14675.464035380008,Completed,Debit Card,Direct Visit
+2024-05-05,Neha,Washing Machine,Mumbai,Ubika Khatri,32884,2,Retail,3550.0,14334.623701083747,14999.376298916253,Pending,Credit Card,Advertisement
+2024-02-19,Anjali,Camera,Mumbai,Vanya Jaggi,69271,1,Online,8065.113488487656,13441.911924661432,47763.97458685091,Returned,Cash on Delivery (COD),Social Media
+2024-10-07,Karan,Smartwatch,Delhi,Chaman Atwal,14586,1,Online,2482.0,3666.976477841623,8437.023522158377,Cancelled,Cash on Delivery (COD),Advertisement
+2024-03-26,Karan,Laptop,Bangalore,Manan Gopal,127824,2,Online,755.0,32712.01143449526,94356.98856550474,Shipped,Cash on Delivery (COD),Email
+2024-12-30,Sushma,Smartwatch,Pune,Jackson Sura,6097,2,Online,818.2706862130332,1981.2835344279579,3297.445779359009,Shipped,Credit Card,Search Engine
+2024-05-09,Rajesh,Air Conditioner,Bangalore,Tripti Dua,62487,2,Online,1090.0,26931.864227551676,34465.135772448324,Cancelled,UPI,Search Engine
+2024-03-07,Neha,Camera,Pune,Gayathri Shetty,83144,1,Online,10435.772771682767,29515.35278082671,43192.874447490525,Pending,Net Banking,Social Media
+2024-02-26,Amit,Smartwatch,Bangalore,Jackson Sura,5208,2,Online,2466.0,342.19033079070186,2399.809669209298,Returned,Cash on Delivery (COD),Direct Visit
+2024-10-11,Ravi,Tablet,Pune,Ekanta Gopal,12393,1,Retail,3599.0,2403.040437619663,6390.959562380337,Completed,Cash on Delivery (COD),Referral
+2024-05-17,Rajesh,Tablet,Jaipur,Ubika Kari,33185,1,Retail,3341.7291176149224,12753.787399062727,17089.48348332235,Cancelled,Net Banking,Email
+2024-04-26,Neha,Bluetooth Speaker,Delhi,Kalpit Sarkar,7773,1,Retail,4593.0,-783.0560664146797,3963.0560664146797,Returned,Debit Card,Social Media
+2024-10-20,Vikram,Headphones,Chennai,Brijesh Bandi,4553,3,Retail,2120.0,519.8729272676919,1913.127072732308,Pending,UPI,Email
+2024-07-24,Vikram,Laptop,Delhi,Bhavna Nath,58607,1,Online,8306.047701155208,9146.422359362905,41154.52993948189,Completed,Debit Card,Email
+2024-02-11,Anjali,Headphones,Chennai,Bhavna Nath,7676,4,Online,1445.1905402406562,2369.6711765698383,3861.1382831895053,Completed,UPI,Email
+2025-01-13,Ravi,Laptop,Mumbai,Jairaj Nagy,103283,1,Online,2877.0,37342.66309556429,63063.33690443571,Cancelled,Net Banking,Social Media
+2024-10-09,Neha,Bluetooth Speaker,Ahmedabad,Suhani Patil,5224,3,Online,1124.4450317577027,2041.9949076149821,2057.560060627315,Completed,UPI,Email
+2024-05-26,Neha,Tablet,Chennai,Vedhika Ram,38383,1,Retail,4513.729831125195,11738.233838606557,22131.03633026825,Cancelled,Debit Card,Social Media
+2024-07-29,Ravi,Laptop,Chennai,Chakrika Kadakia,60411,2,Retail,983.0,21411.416201650252,38016.58379834975,Pending,Cash on Delivery (COD),Search Engine
+2024-06-04,Priya,Headphones,Delhi,Omisha Gera,2196,1,Retail,2151.0,-1090.0065421196803,1135.0065421196803,Pending,Net Banking,Search Engine
+2024-01-29,Neha,Air Conditioner,Bangalore,Kalpit Sarkar,52393,1,Online,6287.696512743099,19778.17181181814,26327.13167543876,Cancelled,Cash on Delivery (COD),Email
+2024-03-12,Neha,Refrigerator,Mumbai,Chakrika Kadakia,32572,2,Retail,8044.6367179485815,7626.224873930326,16901.138408121093,Pending,Cash on Delivery (COD),Social Media
+2024-12-26,Rajesh,Bluetooth Speaker,Pune,Ubika Kari,5750,4,Retail,1167.5389369221402,2476.77922431247,2105.68183876539,Shipped,Cash on Delivery (COD),Email
+2024-01-26,Rajesh,Smartphone,Delhi,Garima Srivastava,24511,4,Online,4924.632102564539,5694.16560063665,13892.20229679881,Cancelled,Net Banking,Email
+2024-09-18,Vikram,Air Conditioner,Kolkata,Niharika Sachdeva,47947,1,Online,1136.0,16610.589368986228,30200.410631013772,Returned,UPI,Advertisement
+2024-05-13,Sushma,Laptop,Mumbai,Sanaya Purohit,105687,2,Online,15677.757483484784,18481.520247166547,71527.72226934867,Pending,UPI,Referral
+2024-02-10,Priya,Bluetooth Speaker,Kolkata,Triya Mohanty,1204,5,Retail,190.2188977790174,423.5326536179882,590.2484486029944,Returned,UPI,Referral
+2024-01-26,Amit,Smartwatch,Ahmedabad,Akshay Ghosh,5081,1,Online,1165.0,883.5231321633137,3032.4768678366863,Shipped,Net Banking,Direct Visit
+2024-02-04,Amit,Refrigerator,Pune,Krishna Sood,34870,2,Retail,8358.814546040638,7656.683652516269,18854.501801443093,Returned,Cash on Delivery (COD),Advertisement
+2024-05-09,Amit,Washing Machine,Ahmedabad,Anmol Rai,53279,2,Retail,6182.576826529286,18388.44403693945,28707.979136531263,Completed,UPI,Email
+2024-05-30,Amit,Washing Machine,Pune,Vanya Jaggi,45534,1,Online,3810.129929262096,18877.169750492954,22846.70032024495,Shipped,Debit Card,Social Media
+2024-04-03,Karan,Refrigerator,Chennai,Krish Lala,34491,2,Retail,6023.761939297415,8731.583801394809,19735.654259307776,Pending,Net Banking,Social Media
+2024-04-03,Sushma,Air Conditioner,Ahmedabad,Meghana Ravi,68693,1,Retail,3118.0,22470.023641349195,43104.976358650805,Pending,Debit Card,Search Engine
+2024-10-11,Karan,Air Conditioner,Kolkata,Sneha Singhal,35350,2,Retail,4880.914280141034,11812.933781712894,18656.15193814607,Completed,UPI,Direct Visit
+2025-01-07,Karan,Washing Machine,Mumbai,Kavya Bhat,24827,2,Online,5395.336890959639,7202.698506301616,12228.964602738744,Pending,Cash on Delivery (COD),Email
+2024-12-27,Karan,Laptop,Lucknow,Fitan Hans,145128,1,Online,7824.1094648281705,36766.11565066004,100537.77488451179,Cancelled,Net Banking,Advertisement
+2024-12-01,Rajesh,Smartphone,Chennai,Sneha Singhal,45016,4,Retail,2387.9452144093884,15746.341283965005,26881.713501625607,Shipped,Credit Card,Referral
+2024-08-06,Priya,Camera,Hyderabad,Wridesh Dora,87502,1,Retail,4868.0,36622.50151588794,46011.49848411206,Completed,Cash on Delivery (COD),Referral
+2024-03-22,Rajesh,Camera,Hyderabad,Vedika Chacko,80033,2,Online,4029.0,31140.454756187763,44863.54524381224,Pending,Debit Card,Email
+2024-07-20,Manoj,Air Conditioner,Hyderabad,Dalbir Karan,56761,2,Retail,2025.0,22145.90555944808,32590.09444055192,Shipped,Debit Card,Advertisement
+2024-01-21,Priya,Headphones,Chennai,Vritti Kapoor,5031,4,Retail,2373.0,-135.2137700937078,2793.213770093708,Returned,Credit Card,Advertisement
+2024-11-30,Ravi,Washing Machine,Lucknow,Ekapad Wason,39232,1,Online,2184.0,16797.891215612013,20250.108784387987,Pending,Credit Card,Direct Visit
+2024-10-04,Manoj,Refrigerator,Lucknow,Bina Kant,38881,1,Retail,2959.285677757683,15887.850074026972,20033.864248215345,Cancelled,UPI,Advertisement
+2024-07-03,Manoj,Smartphone,Kolkata,Rehaan Rajan,12178,1,Retail,3158.0,1387.9906029718159,7632.009397028184,Shipped,Credit Card,Search Engine
+2024-08-23,Vikram,Smartphone,Pune,Zaid Tak,54183,1,Online,7920.847462321399,16163.16751690627,30098.985020772332,Completed,UPI,Advertisement
+2024-10-17,Vikram,Tablet,Pune,Neelima Sagar,27553,1,Retail,2497.0,8217.146570589295,16838.853429410705,Cancelled,UPI,Direct Visit
+2024-09-26,Anjali,Air Conditioner,Mumbai,Nikita Bera,54891,1,Online,3079.0,24339.39805767171,27472.60194232829,Pending,Cash on Delivery (COD),Social Media
+2024-12-22,Neha,Tablet,Jaipur,Kalpit Sarkar,26510,2,Retail,4651.153344446123,6685.491700046227,15173.35495550765,Pending,Credit Card,Email
+2024-11-16,Sushma,Refrigerator,Mumbai,Lajita Balasubramanian,69175,2,Online,4798.426656417271,24753.599756955045,39622.97358662768,Cancelled,UPI,Referral
+2024-03-09,Karan,Headphones,Bangalore,Vedant Saran,6916,4,Online,1251.406159540999,1706.7208981484396,3957.8729423105615,Pending,Debit Card,Direct Visit
+2024-06-04,Ravi,Laptop,Hyderabad,Yagnesh Rajagopalan,73252,2,Retail,2427.0,26337.98683310543,44487.01316689457,Shipped,Cash on Delivery (COD),Email
+2024-04-11,Sushma,Laptop,Kolkata,Nikita Bera,50592,2,Online,4508.298206573139,9437.707450593132,36645.99434283373,Shipped,UPI,Referral
+2024-04-25,Neha,Smartphone,Chennai,Ikshita Narayanan,59153,2,Retail,3446.0,20962.77534539836,34744.22465460164,Cancelled,Cash on Delivery (COD),Direct Visit
+2024-10-20,Ravi,Laptop,Delhi,Harshil Raju,72864,1,Online,3414.0,15476.960889271526,53973.039110728474,Completed,UPI,Social Media
+2025-01-13,Anjali,Bluetooth Speaker,Bangalore,Udant Saha,5748,3,Retail,1404.550488252315,1665.5039096998707,2677.945602047814,Shipped,Net Banking,Referral
+2024-12-31,Rajesh,Laptop,Pune,Ekanta Gopal,142407,1,Retail,383.0,48268.240700807786,93755.75929919221,Returned,Credit Card,Direct Visit
+2024-09-22,Ravi,Washing Machine,Lucknow,Chanakya Mannan,41089,1,Online,4410.080700286942,17087.53596104213,19591.383338670927,Pending,Credit Card,Search Engine
+2024-10-04,Vikram,Air Conditioner,Bangalore,Dalbir Karan,62285,1,Online,1846.0,21580.450647951475,38858.549352048525,Cancelled,UPI,Search Engine
+2024-05-07,Karan,Bluetooth Speaker,Delhi,Avi Sen,8818,3,Online,683.0,3499.7122536022625,4635.2877463977375,Shipped,Credit Card,Direct Visit
+2024-11-11,Manoj,Headphones,Chennai,Brijesh Bandi,1207,3,Retail,3513.0,-2841.707072319171,535.7070723191707,Completed,Credit Card,Email
+2024-03-01,Ravi,Refrigerator,Mumbai,Avi Sen,28508,1,Retail,1383.0,12350.426331686294,14774.573668313706,Returned,Credit Card,Advertisement
+2024-03-25,Karan,Air Conditioner,Bangalore,Garima Srivastava,40423,1,Online,1281.0,13533.345865244504,25608.654134755496,Shipped,UPI,Referral
+2024-05-29,Amit,Refrigerator,Hyderabad,Rehaan Rajan,41583,1,Online,2020.0,14586.104822323821,24976.89517767618,Shipped,Credit Card,Direct Visit
+2024-05-18,Ravi,Air Conditioner,Ahmedabad,Jackson Sura,27066,2,Online,4769.774205416977,6309.433843947762,15986.791950635261,Pending,Credit Card,Search Engine
+2024-06-24,Anjali,Camera,Chennai,Jairaj Sankaran,36838,2,Retail,1157.0,14902.13080521884,20778.86919478116,Cancelled,Debit Card,Social Media
+2024-05-31,Rajesh,Camera,Bangalore,Chandresh Wason,77875,2,Retail,19395.92805732953,14228.211019154933,44250.86092351554,Pending,Net Banking,Email
+2024-10-05,Anjali,Air Conditioner,Jaipur,Gayathri Dugar,50179,2,Retail,11600.791338186687,13224.906249944359,25353.302411868954,Shipped,UPI,Social Media
+2024-02-11,Amit,Washing Machine,Lucknow,Gunbir Raman,26468,1,Online,4802.0,7089.79984046692,14576.20015953308,Returned,Credit Card,Email
+2024-02-15,Sushma,Tablet,Hyderabad,Gayathri Shetty,24093,1,Retail,5479.448948497705,3473.936669054775,15139.61438244752,Returned,UPI,Email
+2024-01-19,Amit,Washing Machine,Mumbai,Netra Kashyap,50768,1,Online,2099.0,24427.343407529297,24241.656592470703,Cancelled,Credit Card,Search Engine
+2024-09-28,Anjali,Tablet,Kolkata,Gaurika Vohra,32239,1,Online,4314.76919875092,11217.798484642208,16706.43231660687,Completed,Cash on Delivery (COD),Search Engine
+2024-07-05,Rajesh,Bluetooth Speaker,Bangalore,Nikita Bera,7995,5,Online,288.0,4023.942708843413,3683.0572911565864,Returned,Debit Card,Search Engine
+2024-04-21,Karan,Washing Machine,Lucknow,Meghana Ravi,45595,2,Retail,6333.732406923486,13426.589939873946,25834.67765320257,Completed,Debit Card,Referral
+2024-11-03,Vikram,Air Conditioner,Mumbai,Dalbir Karan,66976,2,Retail,8590.865150430125,20663.611583579586,37721.52326599029,Completed,Debit Card,Referral
+2024-10-10,Vikram,Camera,Ahmedabad,Saumya Ratti,37667,2,Retail,837.0,11541.689660068587,25288.310339931413,Returned,Cash on Delivery (COD),Referral
+2024-06-03,Ravi,Camera,Pune,Krishna Sood,38260,1,Online,282.0,12649.995562618278,25328.00443738172,Pending,UPI,Social Media
+2024-07-27,Amit,Tablet,Lucknow,Suhani Patil,15383,1,Online,2528.9538635872436,4289.044636316732,8565.001500096025,Completed,UPI,Direct Visit
+2024-05-28,Rajesh,Smartphone,Ahmedabad,Zaid Tak,27619,4,Retail,3972.9665306382904,7721.679307623217,15924.354161738493,Completed,Debit Card,Advertisement
+2024-04-25,Sushma,Tablet,Delhi,Harshil Raju,6622,1,Retail,760.0,1930.8513592457607,3931.1486407542393,Returned,UPI,Referral
+2024-09-25,Vikram,Smartwatch,Bangalore,Chakrika Ramesh,10050,1,Online,833.0,4415.84345990399,4801.15654009601,Shipped,Debit Card,Search Engine
+2024-09-29,Anjali,Refrigerator,Hyderabad,Gayathri Shetty,61784,2,Online,3411.0,21755.496841049186,36617.503158950814,Completed,Credit Card,Referral
+2024-11-09,Ravi,Laptop,Chennai,Gayathri Dugar,60423,2,Retail,7229.680464001295,9905.455941819378,43287.863594179325,Cancelled,UPI,Social Media
+2024-02-09,Anjali,Bluetooth Speaker,Kolkata,Lajita Balasubramanian,9205,4,Retail,4932.0,400.8712941565882,3872.1287058434123,Shipped,Net Banking,Direct Visit
+2024-12-25,Karan,Smartwatch,Chennai,Ekiya Palan,5254,2,Retail,1678.0,738.9174021409685,2837.0825978590315,Completed,Cash on Delivery (COD),Search Engine
+2024-09-24,Rajesh,Camera,Jaipur,Michael Khurana,67006,1,Online,8958.926331416245,21151.387582979085,36895.68608560467,Cancelled,Cash on Delivery (COD),Advertisement
+2024-03-29,Sushma,Smartwatch,Pune,Arjun Sama,23039,1,Online,4170.0,7809.884690519761,11059.11530948024,Completed,UPI,Email
+2024-05-08,Manoj,Bluetooth Speaker,Ahmedabad,Ekiya Palan,1187,2,Retail,227.6378520968955,446.1449575081873,513.2171903949172,Completed,UPI,Direct Visit
+2024-12-28,Karan,Headphones,Kolkata,Ekapad Wason,8806,4,Retail,2793.0,978.5366629196142,5034.463337080386,Returned,Cash on Delivery (COD),Advertisement
+2024-07-29,Priya,Headphones,Bangalore,Ubika Khatri,7468,3,Retail,932.247249596533,2668.826599215082,3866.926151188385,Returned,Credit Card,Search Engine
+2024-11-23,Rajesh,Tablet,Bangalore,Hema Varughese,20885,1,Retail,4999.0,3073.863279719226,12812.136720280774,Shipped,Debit Card,Advertisement
+2024-10-03,Manoj,Air Conditioner,Bangalore,Samuel Bedi,65928,1,Retail,1295.0,29672.79285177958,34960.20714822042,Cancelled,Debit Card,Social Media
+2024-03-06,Manoj,Bluetooth Speaker,Jaipur,Mohini Bail,4244,4,Online,229.82898226140748,2340.1678044361006,1674.003213302492,Pending,Credit Card,Email
+2024-07-05,Anjali,Air Conditioner,Ahmedabad,Dev Varkey,54115,1,Retail,2888.0,24106.293963312666,27120.706036687334,Cancelled,Cash on Delivery (COD),Social Media
+2024-09-11,Rajesh,Tablet,Kolkata,Gayathri Dugar,48785,2,Online,3104.952864133408,15137.023453855669,30543.023682010924,Cancelled,Debit Card,Social Media
+2024-06-16,Vikram,Washing Machine,Lucknow,Avi Sen,16561,1,Retail,4614.0,2358.8800632966904,9588.11993670331,Pending,Debit Card,Advertisement
+2024-12-10,Amit,Smartphone,Lucknow,Meghana Ravi,30703,1,Online,574.0,12631.528986624417,17497.471013375583,Returned,Credit Card,Referral
+2024-06-17,Karan,Camera,Pune,Anita Balasubramanian,98988,1,Online,3336.0,42935.99007228405,52716.00992771595,Returned,Debit Card,Search Engine
+2024-11-04,Ravi,Washing Machine,Chennai,Dalbir Karan,52518,2,Online,4296.551626405627,16966.78704393891,31254.66132965546,Returned,Cash on Delivery (COD),Social Media
+2024-05-11,Rajesh,Headphones,Kolkata,Chakrika Kadakia,5609,1,Online,3783.0,-524.686074118782,2350.686074118782,Returned,Cash on Delivery (COD),Email
+2024-10-30,Priya,Refrigerator,Delhi,Andrew Desai,62224,2,Online,9397.370817467776,19205.169007577395,33621.46017495483,Cancelled,UPI,Search Engine
+2024-10-27,Sushma,Bluetooth Speaker,Mumbai,Neelima Sagar,3071,1,Online,249.23510500933233,1475.921257052351,1345.8436379383168,Pending,Cash on Delivery (COD),Direct Visit
+2024-08-30,Ravi,Tablet,Ahmedabad,Lajita Balasubramanian,58150,2,Retail,3336.0,20570.580665046728,34243.41933495327,Pending,Net Banking,Search Engine
+2024-04-28,Amit,Washing Machine,Chennai,Vedika Chacko,25679,1,Retail,2195.0,8495.737988849063,14988.262011150937,Shipped,Net Banking,Advertisement
+2024-01-23,Karan,Refrigerator,Jaipur,Anita Balasubramanian,63870,1,Retail,4694.0,22077.8691019303,37098.1308980697,Cancelled,Credit Card,Email
+2024-02-04,Sushma,Smartphone,Hyderabad,Sneha Singhal,15988,2,Online,3338.1754255097444,1806.7314337434177,10843.093140746838,Returned,Net Banking,Search Engine
+2024-12-14,Neha,Smartphone,Lucknow,Nidhi Bera,36044,2,Retail,8654.48294328653,4276.39262809528,23113.12442861819,Shipped,Cash on Delivery (COD),Search Engine
+2025-01-13,Priya,Smartwatch,Kolkata,Yadavi Bakshi,23235,2,Retail,1134.0,9906.359123516868,12194.640876483132,Pending,Net Banking,Email
+2024-01-21,Rajesh,Laptop,Chennai,Orinder Anand,106074,1,Retail,1420.0,36677.95074790793,67976.04925209207,Returned,Cash on Delivery (COD),Direct Visit
+2024-04-17,Neha,Laptop,Lucknow,Michael Khurana,115540,2,Online,22964.10550901982,16490.440480882273,76085.4540100979,Completed,Net Banking,Search Engine
+2024-12-28,Karan,Refrigerator,Hyderabad,Vedika Chacko,52236,1,Online,5135.01550659232,19921.88642229938,27179.0980711083,Returned,Debit Card,Search Engine
+2024-12-09,Priya,Smartphone,Mumbai,Jack Sura,52097,3,Online,6991.7099092289345,12646.744437022888,32458.545653748177,Returned,UPI,Social Media
+2024-08-04,Manoj,Smartwatch,Mumbai,Brijesh Bandi,24857,1,Retail,4018.686007725634,9452.320985395312,11385.993006879053,Completed,Net Banking,Referral
+2024-05-14,Priya,Camera,Lucknow,Anita Balasubramanian,75952,2,Retail,3949.0,21205.558984172734,50797.441015827266,Cancelled,Credit Card,Advertisement
+2024-08-14,Amit,Tablet,Hyderabad,Andrew Desai,7651,1,Online,4932.0,-1765.508273914802,4484.508273914802,Pending,Debit Card,Referral
+2024-12-03,Priya,Washing Machine,Mumbai,Vedant Saran,56841,2,Retail,4654.0,19382.614734202696,32804.385265797304,Shipped,Cash on Delivery (COD),Direct Visit
+2024-04-29,Ravi,Smartwatch,Ahmedabad,Jackson Sura,4453,2,Online,286.0678098362348,1905.797321240347,2261.1348689234183,Completed,Net Banking,Email
+2024-12-17,Ravi,Headphones,Chennai,Chakrika Kadakia,6895,4,Online,963.2118801611389,3076.9087998453324,2854.879319993529,Returned,Net Banking,Direct Visit
+2024-03-03,Neha,Camera,Ahmedabad,Samesh Bawa,24646,1,Retail,3695.7920400344688,5855.356461057798,15094.851498907734,Shipped,Debit Card,Email
+2024-11-15,Sushma,Camera,Ahmedabad,Jackson Sura,63711,1,Online,3643.0,22798.517641840408,37269.48235815959,Completed,Net Banking,Email
+2024-12-20,Ravi,Air Conditioner,Lucknow,Sneha Singhal,58762,2,Retail,9045.571160496094,14671.926170025954,35044.50266947795,Returned,UPI,Search Engine
+2024-12-20,Rajesh,Air Conditioner,Jaipur,Michael Khurana,42770,1,Retail,5585.501837636603,12352.06832822325,24832.429834140148,Returned,UPI,Social Media
+2024-01-21,Ravi,Smartwatch,Bangalore,Zansi Shankar,5631,2,Retail,312.2594381898421,2727.143282732794,2591.597279077364,Cancelled,Net Banking,Social Media
+2024-01-26,Sushma,Tablet,Delhi,Chakrika Ramesh,48515,2,Retail,1336.0,19503.780745257784,27675.219254742216,Shipped,Debit Card,Email
+2024-06-12,Manoj,Camera,Mumbai,Chandresh Wason,64679,1,Online,5447.721334873783,19044.967916782178,40186.31074834404,Cancelled,Credit Card,Social Media
+2024-06-10,Vikram,Smartphone,Pune,Tripti Dua,67728,4,Online,13456.56145083106,8965.089703901782,45306.34884526716,Returned,UPI,Direct Visit
+2024-03-25,Vikram,Headphones,Hyderabad,Anmol Rai,3126,1,Retail,157.52547281916574,1113.3632086179734,1855.1113185628608,Returned,Debit Card,Direct Visit
+2024-06-15,Anjali,Smartphone,Kolkata,Harrison Shere,55524,5,Retail,9316.604790329146,13485.217649123048,32722.177560547807,Shipped,Debit Card,Direct Visit
+2024-05-01,Karan,Washing Machine,Mumbai,Vamakshi Ratta,56983,2,Online,12088.862265602613,14641.16982433026,30252.967910067127,Cancelled,Cash on Delivery (COD),Direct Visit
+2024-04-24,Vikram,Refrigerator,Bangalore,Chaman Atwal,21454,2,Online,2658.0,4904.994488856273,13891.005511143727,Completed,UPI,Direct Visit
+2024-08-21,Manoj,Tablet,Jaipur,Garima Dhillon,50619,1,Retail,1191.0,18852.51859442159,30575.48140557841,Cancelled,Debit Card,Direct Visit
+2024-06-12,Priya,Washing Machine,Jaipur,Netra Kashyap,38154,2,Online,4613.0,12315.319982436908,21225.680017563092,Cancelled,Cash on Delivery (COD),Social Media
+2024-05-14,Amit,Air Conditioner,Bangalore,Dev Varkey,62145,2,Online,3412.084485000508,27567.269267963267,31165.646247036224,Returned,Debit Card,Email
+2024-01-20,Rajesh,Headphones,Jaipur,Zaid Tak,7166,4,Retail,546.79089504504,2843.7009654359904,3775.5081395189695,Completed,Debit Card,Advertisement
+2024-08-22,Vikram,Smartphone,Pune,Zansi Shankar,30546,2,Retail,2776.541910172575,9722.918637180308,18046.539452647117,Shipped,UPI,Social Media
+2024-07-29,Karan,Smartwatch,Chennai,Alka Gupta,4651,1,Retail,3794.0,-1649.849018100796,2506.849018100796,Pending,Credit Card,Email
+2024-04-27,Manoj,Headphones,Pune,Bhanumati Arya,6528,3,Online,2020.0,1579.1587961843102,2928.84120381569,Cancelled,Cash on Delivery (COD),Referral
+2024-04-21,Priya,Bluetooth Speaker,Ahmedabad,Anmol Rai,7907,5,Online,1869.635842152574,2701.060141613091,3336.3040162343345,Cancelled,Debit Card,Search Engine
+2024-04-10,Manoj,Tablet,Kolkata,Chakrika Kadakia,47814,1,Retail,8011.553813202669,13107.011662653409,26695.434524143922,Cancelled,Cash on Delivery (COD),Social Media
+2024-11-05,Priya,Smartwatch,Jaipur,Netra Kashyap,16237,2,Online,2182.0,5468.1113478202315,8586.888652179769,Shipped,Credit Card,Advertisement
+2024-08-01,Amit,Air Conditioner,Chennai,Nidra Varughese,69828,2,Online,944.0,27630.782240950437,41253.21775904956,Pending,Net Banking,Referral
+2024-07-10,Sushma,Headphones,Hyderabad,Gaurika Vohra,5110,5,Online,3621.0,-1316.710824349454,2805.710824349454,Cancelled,Debit Card,Search Engine
+2024-10-08,Neha,Smartphone,Jaipur,Kalpit Sarkar,36600,3,Retail,2383.1392934910155,11462.423049528235,22754.43765698075,Pending,Cash on Delivery (COD),Email
+2024-05-04,Ravi,Headphones,Kolkata,Chanakya Mannan,6388,2,Online,711.5348569535106,2009.1624140772913,3667.302728969198,Shipped,Net Banking,Social Media
+2024-03-31,Rajesh,Smartphone,Pune,Ubika Kari,25226,5,Retail,4299.0,5677.244356502963,15249.755643497037,Completed,UPI,Social Media
+2024-12-03,Rajesh,Smartwatch,Ahmedabad,Brijesh Bandi,21938,1,Online,5233.658066020784,4457.798226038058,12246.543707941159,Shipped,Cash on Delivery (COD),Search Engine
+2024-12-30,Manoj,Bluetooth Speaker,Jaipur,Bina Kant,2402,2,Retail,624.0,463.3913062435795,1314.6086937564205,Completed,Credit Card,Search Engine
+2025-01-15,Neha,Bluetooth Speaker,Jaipur,Bakhshi Subramanian,500,3,Online,100.28241606247332,177.3259821524382,222.39160178508848,Cancelled,Credit Card,Search Engine
+2024-04-05,Amit,Headphones,Delhi,Triya Mohanty,6811,1,Retail,2205.0,1487.685395827813,3118.314604172187,Pending,Debit Card,Referral
+2024-05-31,Sushma,Air Conditioner,Jaipur,Netra Kashyap,68247,2,Retail,4726.0,20867.13880456677,42653.86119543323,Cancelled,Cash on Delivery (COD),Advertisement
+2024-11-16,Rajesh,Bluetooth Speaker,Bangalore,Vanya Jaggi,5526,1,Retail,1324.7159988660894,1636.226595802735,2565.0574053311757,Cancelled,Cash on Delivery (COD),Email
+2024-06-26,Rajesh,Washing Machine,Mumbai,Tejas Sachdeva,36987,2,Retail,2173.0,12945.221369736173,21868.778630263827,Pending,Cash on Delivery (COD),Search Engine
+2024-09-18,Priya,Refrigerator,Pune,Onkar Sodhi,39300,1,Retail,3810.0,11468.973450578265,24021.026549421735,Cancelled,UPI,Social Media
+2024-11-12,Ravi,Tablet,Lucknow,Zaid Tak,40230,1,Retail,9340.59129086489,5708.162560918758,25181.246148216353,Completed,Debit Card,Referral
+2024-11-13,Anjali,Washing Machine,Kolkata,Tripti Dua,44054,2,Online,10492.183371335093,11346.215779266324,22215.600849398583,Cancelled,Cash on Delivery (COD),Search Engine
+2024-02-19,Manoj,Tablet,Lucknow,Jairaj Sankaran,57584,2,Retail,7814.125895602938,13509.69335475376,36260.1807496433,Shipped,Debit Card,Advertisement
+2024-06-22,Rajesh,Air Conditioner,Pune,Chakrika Ramesh,64515,2,Online,4176.416535887481,22681.100588156616,37657.4828759559,Shipped,Credit Card,Search Engine
+2024-04-16,Neha,Camera,Jaipur,Vedant Saran,87437,2,Retail,17696.40691526404,16730.365578133908,53010.22750660205,Returned,Credit Card,Direct Visit
+2024-08-19,Rajesh,Refrigerator,Hyderabad,Ekiya Palan,23128,1,Online,4075.0,5821.196609963408,13231.803390036592,Completed,Credit Card,Search Engine
+2024-05-26,Vikram,Washing Machine,Lucknow,Yoshita Misra,42449,1,Online,4523.0,16548.058749710064,21377.941250289936,Pending,UPI,Search Engine
+2025-01-17,Neha,Laptop,Pune,Nidhi Bera,112300,2,Online,23867.669764204016,13921.632133088024,74510.69810270796,Cancelled,Debit Card,Search Engine
+2024-12-11,Anjali,Tablet,Ahmedabad,Zansi Shankar,23127,2,Online,4699.0,3920.0346826668083,14507.965317333192,Completed,Net Banking,Email
+2024-01-21,Neha,Smartphone,Delhi,Jairaj Sankaran,52769,3,Online,1530.0,16479.78541340342,34759.21458659658,Returned,Cash on Delivery (COD),Direct Visit
+2024-12-22,Vikram,Laptop,Delhi,Triya Mohanty,143262,1,Retail,2704.0,54190.892221373535,86367.10777862647,Returned,Debit Card,Social Media
+2024-02-21,Sushma,Washing Machine,Ahmedabad,Girik Kamdar,45621,1,Retail,7235.556052065301,11601.704349926847,26783.73959800785,Pending,Debit Card,Search Engine
+2024-07-13,Karan,Smartwatch,Hyderabad,Ubika Khatri,6805,2,Online,2222.0,1001.2123309148756,3581.7876690851244,Completed,UPI,Referral
+2024-07-17,Ravi,Laptop,Hyderabad,Pavani Nair,80851,1,Retail,13984.03950426346,6829.543220405827,60037.417275330714,Pending,Net Banking,Advertisement
+2024-07-18,Manoj,Laptop,Delhi,Chakrika Ramesh,125239,1,Retail,4677.0,45019.03187474958,75542.96812525042,Shipped,UPI,Referral
+2024-09-15,Sushma,Smartphone,Pune,Vedhika Ram,45891,1,Retail,3871.0,12603.864620763812,29416.135379236188,Cancelled,Net Banking,Email
+2024-09-14,Rajesh,Smartwatch,Hyderabad,Hema Varughese,10004,1,Online,4953.0,-795.7864142555272,5846.786414255527,Shipped,Credit Card,Direct Visit
+2024-02-09,Karan,Air Conditioner,Bangalore,Andrew Desai,51626,2,Retail,4853.0,19472.672271426505,27300.327728573495,Cancelled,Credit Card,Advertisement
+2024-09-21,Ravi,Bluetooth Speaker,Hyderabad,Orinder Anand,8652,4,Retail,2862.0,2712.157386312633,3077.842613687367,Pending,Debit Card,Email
+2024-05-29,Rajesh,Refrigerator,Chennai,Advika Vyas,21292,2,Online,3409.3808909710892,6460.599761602183,11422.019347426727,Completed,Debit Card,Direct Visit
+2024-06-02,Manoj,Air Conditioner,Kolkata,Harshil Raju,58597,2,Online,13971.961594531864,10019.026764207689,34606.01164126045,Cancelled,Credit Card,Direct Visit
+2024-09-03,Ravi,Laptop,Jaipur,Netra Kashyap,53111,1,Online,639.0,12927.209858339622,39544.79014166038,Cancelled,Net Banking,Direct Visit
+2024-10-18,Karan,Air Conditioner,Kolkata,Jackson Sura,32353,1,Online,2397.0,9175.283145528847,20780.716854471153,Cancelled,Credit Card,Referral
+2024-06-06,Manoj,Laptop,Lucknow,Vanya Jaggi,65601,2,Online,3852.0,20316.9176726015,41432.0823273985,Pending,UPI,Social Media
+2024-01-27,Sushma,Refrigerator,Jaipur,Charvi Dasgupta,57963,2,Retail,494.0,28281.306720275257,29187.693279724743,Returned,UPI,Advertisement
+2024-09-20,Ravi,Smartphone,Lucknow,Nikita Bera,63361,2,Online,3669.033617204263,19471.315277455713,40220.651105340025,Shipped,Credit Card,Search Engine
+2024-06-01,Priya,Bluetooth Speaker,Hyderabad,Bina Kant,5719,1,Online,4139.0,-848.405272579545,2428.405272579545,Shipped,Debit Card,Social Media
+2024-12-27,Vikram,Laptop,Jaipur,Ikshita Narayanan,96177,2,Retail,1472.0,23929.706035935276,70775.29396406472,Cancelled,UPI,Advertisement
+2024-05-10,Priya,Refrigerator,Ahmedabad,Zansi Shankar,57291,2,Retail,4383.0,24157.683204599834,28750.316795400166,Shipped,Debit Card,Referral
+2024-07-07,Vikram,Tablet,Jaipur,Vedika Chacko,46586,1,Retail,8178.037846485665,13850.161737942588,24557.800415571746,Pending,Net Banking,Direct Visit
+2024-11-10,Rajesh,Camera,Jaipur,Ekavir Warrior,71533,2,Online,12634.111098561576,16117.634904222343,42781.25399721608,Completed,Net Banking,Advertisement
+2024-09-09,Manoj,Laptop,Jaipur,Falan Mital,82442,2,Retail,6402.720702811112,17304.311371040665,58734.96792614822,Completed,Cash on Delivery (COD),Advertisement
+2024-12-19,Neha,Smartphone,Chennai,Nikita Bera,59035,1,Retail,3798.2181597843673,20606.439184138617,34630.34265607702,Returned,Debit Card,Social Media
+2024-04-29,Anjali,Headphones,Jaipur,Gaurika Vohra,2358,4,Retail,511.093498127242,504.760169524218,1342.14633234854,Completed,Cash on Delivery (COD),Search Engine
+2024-11-18,Priya,Smartphone,Delhi,Sneha Singhal,26636,1,Retail,4673.540322100727,5606.451205286841,16356.008472612431,Cancelled,Cash on Delivery (COD),Referral
+2024-05-21,Karan,Headphones,Delhi,Vedhika Ram,5394,3,Online,478.10217476099285,2734.366954905872,2181.530870333135,Returned,Debit Card,Social Media
+2024-09-14,Rajesh,Laptop,Chennai,Ekiya Palan,68690,1,Online,15951.604246022524,9785.823941756773,42952.5718122207,Cancelled,Credit Card,Advertisement
+2024-08-07,Ravi,Laptop,Hyderabad,Zansi Shankar,74972,2,Online,3504.0,16369.99613228374,55098.00386771626,Returned,Cash on Delivery (COD),Advertisement
+2024-12-22,Manoj,Camera,Jaipur,Suhani Patil,34753,1,Online,735.0,13709.041612211437,20308.958387788563,Shipped,Cash on Delivery (COD),Advertisement
+2024-12-14,Neha,Washing Machine,Pune,Samuel Bedi,58098,2,Retail,4483.0,24563.31231442233,29051.68768557767,Cancelled,Debit Card,Email
+2024-07-26,Priya,Washing Machine,Lucknow,Tripti Dua,25703,1,Retail,3862.5181241316986,9510.831175248723,12329.650700619579,Cancelled,UPI,Referral
+2024-04-19,Vikram,Tablet,Kolkata,Farhan Wali,57242,1,Online,6551.106308540515,13979.156121985416,36711.73756947407,Cancelled,Debit Card,Search Engine
+2025-01-10,Sushma,Air Conditioner,Kolkata,Tejas Sachdeva,57767,1,Retail,594.0,20740.856143158577,36432.14385684142,Returned,Credit Card,Email
+2024-03-20,Sushma,Smartphone,Pune,Chandresh Wason,38944,4,Retail,4726.0,11558.489819417442,22659.510180582558,Returned,Debit Card,Social Media
+2024-11-19,Manoj,Refrigerator,Lucknow,Jalsa Kunda,74549,2,Retail,14201.68178742443,20911.65651824211,39435.66169433346,Returned,Cash on Delivery (COD),Social Media
+2024-07-24,Vikram,Headphones,Hyderabad,Bina Kant,4767,5,Online,2603.0,-24.107782527036306,2188.1077825270363,Cancelled,Net Banking,Social Media
+2025-01-04,Manoj,Laptop,Bangalore,Chaitanya Sachar,112888,1,Retail,23948.402309241228,15443.138672368263,73496.45901839051,Shipped,UPI,Email
+2025-01-12,Sushma,Laptop,Mumbai,Yoshita Misra,93699,1,Online,16538.56328612951,12428.516913543463,64731.91980032703,Completed,UPI,Direct Visit
+2024-12-17,Ravi,Air Conditioner,Mumbai,Chandresh Wason,50372,2,Online,2322.0,20932.125594768928,27117.874405231072,Shipped,Net Banking,Email
+2024-01-20,Ravi,Bluetooth Speaker,Kolkata,Zansi Shankar,2499,3,Online,135.26200851265142,1314.2180852081913,1049.5199062791573,Returned,Debit Card,Direct Visit
+2024-09-11,Ravi,Smartphone,Ahmedabad,Jairaj Sankaran,61818,4,Online,4294.0,16533.45703138585,40990.54296861415,Cancelled,UPI,Direct Visit
+2024-04-09,Ravi,Bluetooth Speaker,Chennai,Pavani Nair,7426,2,Retail,3091.0,717.3612170564666,3617.6387829435334,Cancelled,Credit Card,Email
+2025-01-01,Sushma,Smartwatch,Kolkata,Chakrika Kadakia,10120,1,Retail,2088.577795176791,3244.742068965597,4786.680135857612,Completed,Cash on Delivery (COD),Referral
+2024-04-25,Manoj,Refrigerator,Pune,Vedhika Ram,47915,1,Retail,6720.534783754648,14855.416009874254,26339.0492063711,Completed,Cash on Delivery (COD),Social Media
+2024-12-28,Vikram,Laptop,Ahmedabad,Bakhshi Subramanian,142961,2,Retail,736.0,46396.20346773078,95828.79653226922,Shipped,Credit Card,Advertisement
+2024-12-27,Sushma,Bluetooth Speaker,Pune,Yash Babu,8262,5,Retail,1804.6894589086426,2917.7750112575404,3539.5355298338172,Cancelled,Credit Card,Email
+2024-11-12,Ravi,Washing Machine,Delhi,Ubika Khatri,27854,1,Online,4651.0,10501.584624073894,12701.415375926106,Shipped,Debit Card,Search Engine
+2024-09-22,Ravi,Washing Machine,Bangalore,Wridesh Dora,21150,2,Retail,2558.2376483588773,7743.124226587535,10848.638125053587,Cancelled,Net Banking,Search Engine
+2024-07-01,Neha,Smartphone,Hyderabad,Yash Babu,64090,2,Online,10607.06691639945,13063.452633547477,40419.48045005307,Completed,Debit Card,Direct Visit
+2024-12-11,Rajesh,Headphones,Bangalore,Saumya Ratti,2440,5,Retail,551.7859815922761,524.0294086907638,1364.18460971696,Shipped,UPI,Referral
+2024-01-27,Ravi,Laptop,Mumbai,Mohini Bail,138226,1,Online,4584.0,41091.9653809773,92550.0346190227,Pending,Debit Card,Social Media
+2024-04-23,Amit,Smartwatch,Chennai,Gaurika Vohra,13637,2,Online,3278.0,2844.148794409445,7514.851205590555,Returned,Cash on Delivery (COD),Advertisement
+2024-04-01,Anjali,Refrigerator,Bangalore,Sanaya Purohit,37876,1,Online,8013.24796608962,10093.503659148071,19769.24837476231,Completed,UPI,Social Media
+2024-11-18,Priya,Washing Machine,Bangalore,Hema Varughese,58357,2,Retail,9240.25620784151,15963.493353164686,33153.250438993804,Completed,Credit Card,Search Engine
+2024-11-22,Manoj,Camera,Jaipur,Ryan Konda,43756,1,Online,3942.0,15864.788721536966,23949.211278463034,Cancelled,Cash on Delivery (COD),Advertisement
+2024-03-11,Amit,Headphones,Hyderabad,Jairaj Nagy,2465,1,Online,452.17179010843086,1012.230891052824,1000.5973188387453,Shipped,Net Banking,Referral
+2024-01-20,Neha,Laptop,Bangalore,Anita Bhalla,134686,2,Online,4669.0,39224.100289948445,90792.89971005156,Completed,Debit Card,Search Engine
+2024-09-06,Vikram,Tablet,Bangalore,Nikita Bera,32532,1,Online,6186.212077592484,6810.118421714903,19535.669500692613,Completed,Cash on Delivery (COD),Direct Visit
+2024-10-22,Ravi,Smartphone,Pune,Krish Lala,18406,1,Retail,4568.0,2700.1506578837398,11137.84934211626,Completed,Debit Card,Social Media
+2024-11-12,Manoj,Air Conditioner,Lucknow,Wridesh Dora,32495,1,Retail,3690.0,11967.223881400812,16837.776118599188,Shipped,UPI,Advertisement
+2024-12-10,Amit,Air Conditioner,Jaipur,Manan Gopal,62285,2,Retail,1185.0,27997.912580863274,33102.087419136726,Returned,Debit Card,Advertisement
+2024-01-22,Neha,Laptop,Jaipur,Fitan Hans,136600,1,Retail,14580.930629958923,39390.910634476386,82628.15873556469,Pending,UPI,Social Media
+2024-10-04,Ravi,Laptop,Delhi,Vedant Saran,87163,2,Online,3535.0,18769.976857039233,64858.02314296077,Completed,UPI,Advertisement
+2024-05-29,Vikram,Air Conditioner,Mumbai,Dalbir Karan,31996,2,Retail,5258.703753092002,10460.652982082202,16276.643264825796,Completed,Net Banking,Direct Visit
+2024-11-25,Priya,Bluetooth Speaker,Pune,Ubika Kari,2830,3,Retail,279.5395378974152,1385.0532127405077,1165.4072493620772,Cancelled,UPI,Email
+2024-11-25,Sushma,Washing Machine,Lucknow,Hema Varughese,20107,2,Online,4996.818337759702,4665.834468533028,10444.34719370727,Pending,Cash on Delivery (COD),Email
+2024-02-16,Karan,Smartwatch,Delhi,Kavya Bhat,17414,1,Online,1350.3994430059768,7636.127557025279,8427.472999968744,Completed,Cash on Delivery (COD),Advertisement
+2024-06-24,Manoj,Laptop,Lucknow,Dev Varkey,97920,1,Retail,4674.0,25100.781799114528,68145.21820088547,Cancelled,Credit Card,Referral
+2024-12-14,Ravi,Laptop,Mumbai,Kalpit Sarkar,132492,2,Retail,4031.0,43180.56202242337,85280.43797757663,Shipped,Debit Card,Search Engine
+2024-11-30,Sushma,Washing Machine,Lucknow,Vedant Saran,31951,2,Retail,4141.8319123440815,13240.893044475175,14568.275043180745,Completed,Debit Card,Search Engine
+2024-08-15,Ravi,Air Conditioner,Jaipur,Gayathri Shetty,54761,2,Online,12275.662832488455,10638.59875519247,31846.738412319075,Cancelled,Credit Card,Advertisement
+2024-11-08,Ravi,Air Conditioner,Kolkata,Meghana Ravi,41981,2,Online,4227.0,15684.976295868422,22069.023704131578,Completed,Debit Card,Advertisement
+2024-07-12,Ravi,Tablet,Kolkata,Jack Sura,57262,1,Online,9157.452731174879,16503.410463101114,31601.136805724007,Shipped,Cash on Delivery (COD),Social Media
+2024-07-01,Karan,Washing Machine,Hyderabad,Arjun Sama,16864,1,Retail,4889.0,3425.5105386781725,8549.489461321828,Returned,Debit Card,Referral
+2024-12-24,Anjali,Laptop,Ahmedabad,Udant Saha,68635,1,Online,1413.0,19264.22959644493,47957.77040355507,Completed,Debit Card,Search Engine
+2024-07-01,Karan,Bluetooth Speaker,Ahmedabad,Wridesh Dora,5758,1,Retail,1276.161164089783,2199.7329097544807,2282.1059261557366,Pending,UPI,Referral
+2024-03-07,Sushma,Tablet,Ahmedabad,Charvi Dasgupta,46826,2,Online,1566.0,14931.47698152922,30328.52301847078,Pending,Credit Card,Social Media
+2024-12-10,Karan,Laptop,Lucknow,Anita Balasubramanian,93030,1,Online,810.0,27237.464886874368,64982.53511312563,Shipped,UPI,Direct Visit
+2024-07-23,Anjali,Refrigerator,Jaipur,Avi Sen,65954,2,Online,3594.9910617070104,29211.864122957853,33147.14481533514,Pending,Cash on Delivery (COD),Direct Visit
+2024-06-09,Sushma,Refrigerator,Jaipur,Vanya Jaggi,38339,2,Retail,9476.27737484361,4488.698647230822,24374.023977925568,Returned,Cash on Delivery (COD),Direct Visit
+2024-10-05,Vikram,Camera,Bangalore,Brijesh Bandi,71947,1,Online,12273.768392790613,22217.543635521397,37455.68797168799,Returned,Net Banking,Search Engine
+2024-11-18,Neha,Bluetooth Speaker,Chennai,Ayush Sen,3734,2,Online,877.0,1416.1582451742474,1440.8417548257526,Shipped,Cash on Delivery (COD),Referral
+2024-06-14,Vikram,Smartwatch,Bangalore,Bakhshi Subramanian,15908,1,Retail,2131.0632726776607,5646.7679087654,8130.16881855694,Pending,Credit Card,Social Media
+2024-12-20,Amit,Laptop,Ahmedabad,Anmol Rai,67730,2,Online,4110.0,22721.86951390247,40898.13048609753,Pending,UPI,Direct Visit
+2024-02-06,Karan,Smartwatch,Chennai,Anita Balasubramanian,12675,2,Online,1490.980575733551,5362.347005021587,5821.672419244862,Shipped,Net Banking,Search Engine
+2024-02-09,Anjali,Bluetooth Speaker,Jaipur,Jack Sura,2482,1,Retail,483.6443563494069,747.8086778597267,1250.5469657908664,Completed,Cash on Delivery (COD),Direct Visit
+2025-01-05,Anjali,Tablet,Bangalore,Bhavna Nath,41458,1,Online,1867.0,12897.44978754326,26693.55021245674,Pending,Credit Card,Direct Visit
+2024-12-31,Priya,Tablet,Chennai,Samar Bakshi,52991,1,Online,6236.1979702856825,15236.217451408766,31518.584578305552,Shipped,Cash on Delivery (COD),Search Engine
+2024-12-21,Anjali,Camera,Lucknow,Jairaj Nagy,60003,2,Retail,1988.0,24583.546360751832,33431.45363924817,Returned,Cash on Delivery (COD),Social Media
+2024-12-10,Sushma,Tablet,Hyderabad,Lopa Vala,46906,1,Online,3456.0,18041.903513125922,25408.096486874078,Shipped,UPI,Search Engine
+2024-11-28,Anjali,Laptop,Ahmedabad,Meghana Ravi,91278,1,Online,3189.0,32928.19549972775,55160.80450027225,Pending,Net Banking,Referral
+2024-05-11,Karan,Air Conditioner,Pune,Ekanta Gopal,64636,2,Retail,4164.0,26172.412667765355,34299.587332234645,Shipped,Credit Card,Email
+2024-09-12,Ravi,Tablet,Ahmedabad,Netra Kashyap,25695,1,Online,5506.333243178244,6912.936321168872,13275.730435652884,Cancelled,UPI,Direct Visit
+2024-12-04,Vikram,Headphones,Mumbai,Gunbir Raman,2080,4,Online,3368.0,-2298.504838702243,1010.5048387022429,Returned,UPI,Referral
+2025-01-03,Ravi,Laptop,Delhi,Dalbir Karan,52541,1,Retail,6117.721084227465,9025.660190910494,37397.61872486204,Shipped,UPI,Referral
+2024-06-03,Manoj,Air Conditioner,Jaipur,Garima Srivastava,39620,2,Retail,2337.8680618715644,16962.54460598455,20319.58733214389,Pending,Cash on Delivery (COD),Social Media
+2024-06-26,Sushma,Refrigerator,Jaipur,Brijesh Bandi,38503,2,Online,1797.0,12035.213910700182,24670.786089299818,Cancelled,Net Banking,Referral
+2024-08-11,Rajesh,Air Conditioner,Lucknow,Wridesh Dora,33106,2,Online,4702.259406528983,9299.4339138271,19104.306679643916,Pending,Credit Card,Advertisement
+2024-10-21,Manoj,Refrigerator,Delhi,Nidra Varughese,58329,1,Online,222.0,27521.75978464196,30585.24021535804,Pending,Net Banking,Search Engine
+2024-12-22,Priya,Smartphone,Lucknow,Vedhika Ram,28348,2,Retail,3984.0,6951.226100241252,17412.773899758748,Returned,Net Banking,Social Media
+2024-08-15,Anjali,Camera,Ahmedabad,Hema Varughese,71337,1,Online,10553.1546136627,14293.129812186904,46490.715574150396,Pending,Net Banking,Direct Visit
+2024-11-09,Anjali,Bluetooth Speaker,Jaipur,Fitan Hans,6233,4,Retail,1022.2892123007817,2643.5737023977135,2567.1370853015046,Shipped,Cash on Delivery (COD),Direct Visit
+2024-12-09,Rajesh,Smartwatch,Chennai,Gaurika Vohra,21902,2,Retail,3452.4605897776114,6502.191949659635,11947.347460562754,Cancelled,Debit Card,Email
+2024-04-08,Rajesh,Headphones,Mumbai,Lopa Vala,2514,1,Retail,485.7987931920523,985.2841329140533,1042.9170738938944,Shipped,Credit Card,Search Engine
+2024-12-04,Neha,Tablet,Bangalore,Ubika Kari,15850,2,Online,969.5503066709283,6677.531955882001,8202.917737447071,Shipped,Debit Card,Advertisement
+2024-03-20,Vikram,Tablet,Pune,Chaitanya Sachar,23778,2,Retail,1811.8773491818292,9959.355297763905,12006.767353054267,Completed,Debit Card,Direct Visit
+2024-04-09,Anjali,Camera,Ahmedabad,Nikita Bera,67139,2,Online,2023.0,31501.01888658318,33614.98111341682,Cancelled,Net Banking,Social Media
+2024-03-17,Neha,Air Conditioner,Pune,Sneha Singhal,35795,1,Retail,508.0,12448.851421305826,22838.148578694174,Pending,Net Banking,Search Engine
+2025-01-15,Karan,Air Conditioner,Mumbai,Harrison Shere,31672,1,Retail,3110.0,9747.899154869276,18814.100845130724,Cancelled,Net Banking,Search Engine
+2024-05-24,Rajesh,Bluetooth Speaker,Pune,Zansi Shankar,1578,5,Online,1961.0,-1034.8509299339385,651.8509299339383,Cancelled,UPI,Direct Visit
+2024-10-12,Amit,Washing Machine,Ahmedabad,Brijesh Bandi,56972,2,Retail,3727.0,27534.928677486045,25710.071322513955,Returned,Debit Card,Direct Visit
+2025-01-13,Priya,Tablet,Chennai,Bina Kant,20254,2,Retail,2225.0,6471.078764801987,11557.921235198013,Shipped,UPI,Search Engine
+2024-01-25,Manoj,Headphones,Lucknow,Vanya Jaggi,9085,4,Online,2262.795363162049,2939.441489961004,3882.7631468769464,Pending,Cash on Delivery (COD),Referral
+2024-09-02,Priya,Smartwatch,Jaipur,Krishna Sood,3079,2,Online,231.0,1413.067431821308,1434.932568178692,Returned,Credit Card,Email
+2024-04-11,Priya,Smartphone,Pune,Netra Kashyap,63038,4,Retail,7059.845716380703,21077.702867196276,34900.45141642302,Completed,Net Banking,Referral
+2024-07-20,Amit,Tablet,Hyderabad,Ubika Khatri,57537,1,Retail,1145.0,22426.72793064895,33965.27206935105,Completed,Debit Card,Social Media
+2024-02-23,Amit,Refrigerator,Jaipur,Yash Babu,70621,1,Retail,16608.465491338513,16703.37119098385,37309.16331767764,Cancelled,Credit Card,Direct Visit
+2024-11-17,Manoj,Washing Machine,Hyderabad,Bhavna Nath,27564,2,Retail,4670.0,10400.546327571057,12493.453672428943,Returned,Net Banking,Search Engine
+2024-08-08,Neha,Laptop,Delhi,Pavani Nair,132681,2,Retail,3166.0,48625.87920671987,80889.12079328013,Pending,Net Banking,Social Media
+2024-08-26,Anjali,Air Conditioner,Mumbai,Gayathri Shetty,40867,2,Retail,3109.0,12759.163969657126,24998.836030342874,Completed,UPI,Referral
+2024-10-03,Neha,Washing Machine,Hyderabad,Jairaj Sankaran,58573,1,Retail,4247.0,26337.87646016398,27988.12353983602,Pending,UPI,Direct Visit
+2024-08-24,Karan,Air Conditioner,Jaipur,Mohini Bail,32882,1,Retail,3617.344560956606,11718.221306339792,17546.4341327036,Returned,Net Banking,Email
+2024-10-04,Anjali,Bluetooth Speaker,Chennai,Zansi Shankar,7021,5,Online,840.0634580702957,3538.1177625882715,2642.8187793414327,Completed,Net Banking,Email
+2024-08-26,Rajesh,Tablet,Jaipur,Gaurika Vohra,40481,2,Retail,1004.0,16007.456984617744,23469.543015382256,Shipped,UPI,Social Media
+2024-06-04,Amit,Laptop,Ahmedabad,Dalbir Karan,131258,1,Retail,8433.855738087565,34878.698465864196,87945.44579604824,Shipped,UPI,Advertisement
+2024-05-22,Manoj,Refrigerator,Kolkata,Chakrika Kadakia,68945,1,Retail,4509.0,26717.481812661194,37718.51818733881,Shipped,Net Banking,Direct Visit
+2024-02-14,Anjali,Smartwatch,Delhi,Advika Vyas,20116,1,Online,1997.0,8144.598710954329,9974.40128904567,Shipped,Net Banking,Direct Visit
+2024-10-01,Rajesh,Bluetooth Speaker,Delhi,Farhan Wali,2564,4,Online,2230.0,-606.511924460942,940.511924460942,Completed,Credit Card,Advertisement
+2024-06-13,Priya,Refrigerator,Hyderabad,Yoshita Misra,39939,2,Online,6179.741946275026,8146.959855881487,25612.298197843487,Completed,Net Banking,Search Engine
+2024-07-14,Amit,Tablet,Jaipur,Vanya Jaggi,43507,2,Retail,4408.00584775022,14755.918975738405,24343.075176511375,Shipped,UPI,Social Media
+2024-04-20,Amit,Smartphone,Kolkata,Avi Sen,57970,5,Retail,10789.118339796449,14475.161095457395,32705.720564746156,Completed,Net Banking,Referral
+2025-01-11,Amit,Washing Machine,Jaipur,Omisha Gera,45643,2,Online,10361.974674580099,13178.784658019034,22102.240667400867,Completed,UPI,Search Engine
+2024-05-31,Amit,Tablet,Bangalore,Anmol Rai,28972,1,Retail,4335.0,9851.773410698781,14785.226589301219,Cancelled,Cash on Delivery (COD),Social Media
+2024-07-02,Ravi,Washing Machine,Jaipur,Lopa Vala,23698,2,Online,1940.0,9634.3395212061,12123.6604787939,Completed,UPI,Email
+2024-03-30,Vikram,Laptop,Delhi,Vritti Kapoor,66078,1,Online,9513.679165178775,16016.788231244998,40547.53260357623,Shipped,Cash on Delivery (COD),Referral
+2025-01-15,Karan,Air Conditioner,Jaipur,Yash Babu,56851,2,Retail,3275.0,24509.322176420927,29066.677823579073,Shipped,Credit Card,Advertisement
+2024-12-31,Vikram,Camera,Pune,Falan Mital,50618,1,Retail,986.0,21595.528435456552,28036.471564543448,Returned,UPI,Search Engine
+2024-11-06,Neha,Laptop,Bangalore,Chakrika Ramesh,65690,1,Online,5014.57246691145,17599.694699251675,43075.732833836875,Pending,Credit Card,Search Engine
+2024-09-18,Priya,Tablet,Lucknow,Gaurika Vohra,51201,1,Online,2638.0,18037.987854616134,30525.012145383866,Returned,Debit Card,Search Engine
+2024-10-18,Priya,Bluetooth Speaker,Pune,Anita Bhalla,4936,1,Online,1131.0293399640298,1489.8086529485383,2315.162007087432,Pending,Cash on Delivery (COD),Advertisement
+2024-11-16,Neha,Refrigerator,Jaipur,Girik Kamdar,37802,2,Retail,7851.352913850627,7511.4346208451425,22439.21246530423,Pending,UPI,Search Engine
+2024-05-20,Rajesh,Laptop,Lucknow,Chaitanya Sachar,107508,1,Retail,19570.112999305475,23387.21297495386,64550.67402574066,Shipped,Net Banking,Email
+2024-10-22,Anjali,Smartphone,Hyderabad,Suhani Patil,61565,4,Online,13131.740804003663,10456.372347320159,37976.88684867618,Shipped,Debit Card,Referral
+2024-06-06,Anjali,Headphones,Jaipur,Bhavna Nath,2425,4,Retail,389.0,705.2083093421074,1330.7916906578926,Shipped,Credit Card,Direct Visit
+2024-02-14,Karan,Laptop,Hyderabad,Samar Bakshi,120506,2,Online,2193.0,38723.15412569986,79589.84587430014,Pending,UPI,Advertisement
+2024-04-07,Karan,Smartwatch,Pune,Chaman Atwal,12964,2,Online,4724.0,1950.7841137628275,6289.2158862371725,Pending,Credit Card,Email
+2024-04-07,Priya,Smartwatch,Hyderabad,Udant Saha,23072,2,Online,5117.9833666466475,6800.670690550274,11153.345942803078,Returned,Credit Card,Advertisement
+2024-09-24,Neha,Air Conditioner,Delhi,Anmol Rai,30708,2,Retail,4923.859096925014,7162.852272185232,18621.288630889754,Completed,Debit Card,Direct Visit
+2024-11-29,Anjali,Smartphone,Bangalore,Harrison Shere,53886,3,Online,11512.782728462893,4762.415875431552,37610.801396105555,Completed,Cash on Delivery (COD),Referral
+2024-09-08,Sushma,Washing Machine,Delhi,Saumya Ratti,49036,2,Retail,3916.0,16089.59601604896,29030.40398395104,Cancelled,Debit Card,Email
+2024-04-02,Karan,Refrigerator,Bangalore,Omisha Gera,78791,1,Online,16028.05681936614,13276.521445735967,49486.42173489789,Completed,Cash on Delivery (COD),Search Engine
+2024-12-14,Vikram,Headphones,Lucknow,Avi Sen,4143,2,Retail,1089.0,1187.9378342879218,1866.062165712078,Pending,Net Banking,Advertisement
+2024-04-13,Rajesh,Refrigerator,Mumbai,Andrew Desai,22927,2,Online,1402.0,7373.034740779609,14151.965259220391,Completed,Cash on Delivery (COD),Social Media
+2024-05-20,Rajesh,Headphones,Kolkata,Mohini Bail,8908,4,Online,474.0,3201.8530363218324,5232.146963678168,Completed,Debit Card,Advertisement
+2024-03-02,Neha,Air Conditioner,Lucknow,Ikshita Narayanan,56509,1,Online,1676.0,24057.721288085395,30775.278711914605,Completed,Debit Card,Advertisement
+2024-05-02,Rajesh,Laptop,Lucknow,Bakhshi Subramanian,94638,1,Online,8699.678088348981,22347.515725159294,63590.806186491725,Shipped,UPI,Direct Visit
+2024-04-24,Rajesh,Tablet,Chennai,Chaitanya Sachar,49409,2,Retail,3489.0,18892.523861147205,27027.476138852795,Returned,Debit Card,Advertisement
+2024-01-26,Anjali,Washing Machine,Pune,Jairaj Nagy,21161,1,Retail,2749.0,7238.828243906011,11173.171756093989,Completed,Net Banking,Email
+2024-09-15,Vikram,Camera,Mumbai,Lajita Balasubramanian,72251,1,Online,3818.0,31895.690623959927,36537.30937604007,Cancelled,Debit Card,Referral
+2024-12-30,Priya,Bluetooth Speaker,Delhi,Gaurika Vohra,8403,5,Retail,1743.0,2068.1582406064945,4591.8417593935055,Completed,Credit Card,Referral
+2024-03-20,Karan,Laptop,Lucknow,Ekanta Gopal,104755,2,Online,20561.059757480027,14343.395499645594,69850.54474287438,Returned,UPI,Advertisement
+2024-11-18,Neha,Laptop,Mumbai,Pavani Nair,114146,1,Online,6739.0424437435395,37566.785393051556,69840.1721632049,Cancelled,Credit Card,Social Media
+2024-09-07,Sushma,Air Conditioner,Hyderabad,Dhriti Babu,65347,1,Online,14857.021952900697,13180.460964911956,37309.51708218735,Cancelled,Cash on Delivery (COD),Direct Visit
+2024-08-20,Ravi,Refrigerator,Mumbai,Michael Khurana,79692,1,Retail,12892.195516362199,16537.38026697292,50262.424216664884,Shipped,Debit Card,Referral
+2024-04-22,Priya,Bluetooth Speaker,Delhi,Balhaar Nadig,2920,1,Online,304.8870361172965,1033.945308254785,1581.1676556279185,Returned,Cash on Delivery (COD),Referral
+2024-03-23,Rajesh,Smartphone,Kolkata,Garima Srivastava,30533,3,Retail,5542.2357309609615,6516.579748701937,18474.1845203371,Pending,UPI,Social Media
+2024-06-23,Amit,Tablet,Mumbai,Shaurya Nigam,44727,1,Retail,7870.318725889336,10870.421972611019,25986.259301499646,Completed,Cash on Delivery (COD),Email
+2024-12-16,Anjali,Air Conditioner,Lucknow,Nikita Bera,50267,2,Retail,5505.160291283604,12271.59674372562,32490.242964990775,Returned,Credit Card,Search Engine
+2024-06-02,Anjali,Smartphone,Mumbai,Manan Gopal,29204,3,Online,4024.5344283017853,7836.744963794468,17342.720607903746,Pending,Cash on Delivery (COD),Search Engine
+2024-10-07,Karan,Headphones,Bangalore,Saumya Ratti,6663,1,Retail,788.0,1965.203880163098,3909.796119836902,Completed,Net Banking,Search Engine
+2024-10-11,Priya,Refrigerator,Bangalore,Chakrika Ramesh,28448,2,Online,6522.451356641097,5608.065270839437,16317.483372519466,Returned,Net Banking,Search Engine
+2024-03-02,Ravi,Bluetooth Speaker,Jaipur,Ryan Konda,4150,1,Online,736.0,1413.4541597952757,2000.545840204724,Returned,Credit Card,Referral
+2024-12-25,Karan,Bluetooth Speaker,Kolkata,Vamakshi Ratta,7382,3,Retail,3084.0,682.444359439482,3615.555640560518,Shipped,Credit Card,Referral
+2024-08-15,Anjali,Tablet,Kolkata,Ekapad Wason,50231,2,Online,10525.49513903039,13216.489119711867,26489.015741257743,Returned,UPI,Advertisement
+2024-11-11,Sushma,Smartphone,Chennai,Lopa Vala,20267,4,Retail,3070.0,5378.309230155806,11818.690769844194,Completed,Cash on Delivery (COD),Referral
+2024-07-02,Sushma,Bluetooth Speaker,Mumbai,Bhavna Nath,3803,1,Retail,2739.0,-358.9469790703538,1422.9469790703538,Returned,Debit Card,Direct Visit
+2025-01-05,Amit,Smartphone,Ahmedabad,Harrison Shere,49712,3,Retail,3428.704453316156,16710.425412497385,29572.870134186458,Shipped,UPI,Email
+2024-11-19,Priya,Tablet,Mumbai,Neelima Sagar,43534,2,Online,2792.0,12812.523385285745,27929.476614714255,Cancelled,Credit Card,Email
+2024-12-19,Vikram,Bluetooth Speaker,Chennai,Samesh Bawa,6157,3,Retail,1028.1061928818954,1842.3502395954188,3286.543567522686,Returned,Net Banking,Email
+2024-07-04,Anjali,Laptop,Delhi,Shaurya Nigam,62431,2,Retail,2764.0,13165.872543480473,46501.12745651953,Shipped,Cash on Delivery (COD),Social Media
+2024-07-07,Rajesh,Bluetooth Speaker,Pune,Krishna Sood,8839,4,Retail,4623.0,138.19221535719407,4077.807784642806,Completed,Debit Card,Email
+2024-12-01,Priya,Air Conditioner,Jaipur,Girik Kamdar,25519,1,Retail,4801.0,6672.225847561356,14045.774152438644,Pending,UPI,Social Media
+2024-08-06,Rajesh,Refrigerator,Delhi,Harshil Raju,61712,2,Retail,1080.0,24810.9717663907,35821.0282336093,Pending,Cash on Delivery (COD),Social Media
+2024-08-28,Ravi,Headphones,Chennai,Sanaya Purohit,4743,3,Retail,681.2531238090232,2123.7860204186904,1937.9608557722863,Cancelled,Net Banking,Search Engine
+2024-05-22,Karan,Refrigerator,Delhi,Ubika Kari,22401,2,Online,4134.192214218463,6150.581120144223,12116.226665637314,Pending,UPI,Direct Visit
+2024-02-05,Rajesh,Smartphone,Mumbai,Anita Balasubramanian,56505,4,Online,1439.0,23695.754729090208,31370.245270909792,Completed,Debit Card,Direct Visit
+2024-09-13,Anjali,Headphones,Kolkata,Triya Mohanty,4266,3,Retail,3596.0,-1704.7541223110793,2374.7541223110793,Returned,Net Banking,Social Media
+2024-12-23,Ravi,Camera,Delhi,Mohini Bail,59672,1,Retail,14309.366522565224,13779.588961944994,31583.044515489782,Shipped,Net Banking,Advertisement
+2024-06-09,Amit,Refrigerator,Jaipur,Anmol Rai,21779,2,Online,3527.784365590876,7327.844675094751,10923.370959314372,Completed,Cash on Delivery (COD),Advertisement
+2024-07-14,Anjali,Washing Machine,Jaipur,Chanakya Mannan,59822,2,Online,2906.0,21226.30771037809,35689.69228962191,Completed,Cash on Delivery (COD),Direct Visit
+2024-08-29,Rajesh,Headphones,Kolkata,Saumya Ratti,3417,1,Online,404.374923504231,1302.119668027838,1710.505408467931,Returned,Credit Card,Search Engine
+2024-05-08,Priya,Refrigerator,Mumbai,Garima Srivastava,27403,1,Retail,1994.8386588201881,7757.708358382557,17650.452982797255,Shipped,Credit Card,Social Media
+2024-05-07,Rajesh,Camera,Ahmedabad,Ubika Kari,26691,1,Retail,347.0,9207.3086985181,17136.6913014819,Completed,Cash on Delivery (COD),Social Media
+2024-06-22,Manoj,Smartwatch,Lucknow,Ubika Khatri,12439,2,Online,3863.0,2526.480479322703,6049.519520677297,Pending,Cash on Delivery (COD),Search Engine
+2024-02-15,Rajesh,Laptop,Bangalore,Michael Khurana,82129,1,Retail,4567.0,24876.91561570949,52685.08438429051,Pending,Net Banking,Advertisement
+2024-08-28,Amit,Refrigerator,Bangalore,Jack Sura,53267,2,Online,10181.101654089716,15997.96429316544,27087.934052744844,Returned,Cash on Delivery (COD),Referral
+2024-05-31,Rajesh,Laptop,Ahmedabad,Chaman Atwal,140112,2,Online,16529.6668437363,33557.050378839005,90025.2827774247,Shipped,Debit Card,Search Engine
+2024-11-26,Neha,Bluetooth Speaker,Hyderabad,Mohini Bail,3011,2,Retail,546.8179840986269,1150.1989805892658,1313.9830353121074,Pending,Net Banking,Search Engine
+2025-01-13,Ravi,Smartphone,Ahmedabad,Samesh Bawa,53096,2,Retail,3140.0,17827.49820793924,32128.50179206076,Shipped,Credit Card,Direct Visit
+2024-06-05,Neha,Smartwatch,Ahmedabad,Hema Varughese,10408,2,Online,1745.0,2583.8314225726717,6079.168577427328,Cancelled,Net Banking,Social Media
+2024-09-26,Sushma,Smartphone,Chennai,Ekapad Wason,41890,3,Retail,5348.675992336503,9054.046208925385,27487.277798738112,Pending,Net Banking,Email
+2024-02-26,Rajesh,Washing Machine,Mumbai,Zansi Shankar,46704,2,Retail,9547.023484772377,14530.986776746995,22625.989738480628,Completed,Cash on Delivery (COD),Email
+2024-02-11,Neha,Refrigerator,Hyderabad,Ubika Khatri,40741,2,Online,5288.395158477325,13028.400530681833,22424.204310840843,Shipped,Debit Card,Direct Visit
+2024-11-17,Manoj,Camera,Mumbai,Chakrika Kadakia,80574,2,Retail,4804.0,35447.84906040353,40322.15093959647,Shipped,Cash on Delivery (COD),Email
+2024-05-04,Priya,Tablet,Hyderabad,Brijesh Bandi,35109,2,Retail,4867.0,11801.77928242481,18440.22071757519,Pending,Cash on Delivery (COD),Direct Visit
+2024-02-09,Manoj,Camera,Jaipur,Triya Mohanty,75143,2,Online,404.0,33284.90554109868,41454.09445890132,Completed,Credit Card,Advertisement
+2024-07-16,Amit,Camera,Bangalore,Balhaar Nadig,78731,1,Retail,19272.607678993838,15460.053398675904,43998.33892233026,Shipped,Debit Card,Advertisement
+2024-02-10,Manoj,Bluetooth Speaker,Bangalore,Sneha Singhal,8541,2,Retail,1260.0,2755.780007406129,4525.219992593871,Completed,Credit Card,Direct Visit
+2024-03-29,Neha,Bluetooth Speaker,Lucknow,Ryan Konda,9457,1,Retail,416.0,5481.521107205495,3559.478892794504,Cancelled,Credit Card,Email
+2024-03-29,Manoj,Smartwatch,Mumbai,Krishna Sood,3002,1,Online,802.0,705.6258597795381,1494.3741402204619,Shipped,Debit Card,Direct Visit
+2024-12-21,Amit,Air Conditioner,Chennai,Girik Kamdar,50310,2,Online,10841.141043427531,10078.443307805384,29390.415648767084,Shipped,Net Banking,Advertisement
+2024-07-16,Vikram,Air Conditioner,Delhi,Akshay Ghosh,68909,1,Retail,3210.0,24462.51793617676,41236.48206382324,Pending,UPI,Referral
+2024-08-26,Amit,Bluetooth Speaker,Hyderabad,Anita Balasubramanian,7490,4,Online,1849.9342492306307,2887.721154690793,2752.3445960785766,Completed,Debit Card,Advertisement
+2024-09-11,Rajesh,Headphones,Lucknow,Udant Saha,2853,1,Retail,666.2339978852186,670.9302127582001,1515.8357893565812,Cancelled,Debit Card,Advertisement
+2024-10-22,Amit,Smartwatch,Ahmedabad,Ryan Konda,5148,2,Online,1094.816842551241,994.9333204970374,3058.2498369517216,Shipped,UPI,Direct Visit
+2024-10-14,Vikram,Tablet,Chennai,Nikita Bera,5222,1,Retail,3098.0,-1269.5564149240736,3393.5564149240736,Returned,Cash on Delivery (COD),Social Media
+2024-04-27,Manoj,Smartwatch,Bangalore,Vanya Jaggi,22199,1,Retail,3906.97821618826,7958.854780085081,10333.16700372666,Completed,Credit Card,Email
+2024-06-27,Rajesh,Camera,Pune,Chandresh Wason,92809,2,Online,1137.0,27084.40626620913,64587.59373379087,Cancelled,Cash on Delivery (COD),Referral
+2024-10-05,Sushma,Smartwatch,Lucknow,Jalsa Kunda,16241,1,Online,3885.0579082021563,3216.071135450505,9139.870956347339,Cancelled,Cash on Delivery (COD),Advertisement
+2024-03-12,Vikram,Washing Machine,Mumbai,Gaurika Vohra,35860,2,Retail,7581.174764484049,11044.444166403815,17234.381069112136,Shipped,Credit Card,Direct Visit
+2025-01-16,Rajesh,Tablet,Kolkata,Triya Mohanty,5187,2,Retail,2148.0,124.8694431405388,2914.130556859461,Returned,Credit Card,Search Engine
+2024-02-08,Amit,Bluetooth Speaker,Ahmedabad,Ekavir Warrior,5086,2,Online,382.93475257699356,2493.034630322621,2210.0306171003854,Shipped,Credit Card,Search Engine
+2024-06-25,Ravi,Washing Machine,Lucknow,Kalpit Sarkar,42931,1,Online,4755.0,16457.40514156832,21718.59485843168,Pending,Debit Card,Search Engine
+2024-07-21,Neha,Refrigerator,Chennai,Anita Bhalla,40044,2,Online,2289.0,13349.949017416719,24405.05098258328,Pending,Net Banking,Advertisement
+2024-11-08,Neha,Air Conditioner,Ahmedabad,Jairaj Nagy,43050,1,Retail,2641.0,13046.882515414738,27362.117484585262,Completed,Credit Card,Direct Visit
+2024-02-11,Priya,Tablet,Kolkata,Lajita Balasubramanian,7583,1,Retail,1471.988723988585,1228.4796321056535,4882.5316439057615,Cancelled,Cash on Delivery (COD),Advertisement
+2024-06-14,Manoj,Camera,Pune,Tejas Sachdeva,40581,1,Online,478.0,12919.398739378485,27183.601260621515,Cancelled,Debit Card,Social Media
+2024-12-17,Vikram,Smartwatch,Pune,Advika Vyas,3820,1,Retail,1317.0,616.9242932922289,1886.0757067077711,Cancelled,Cash on Delivery (COD),Advertisement
+2024-04-27,Rajesh,Smartphone,Chennai,Pavani Nair,51065,3,Online,837.0,20580.763382438236,29647.236617561764,Returned,Cash on Delivery (COD),Direct Visit
+2024-12-21,Karan,Headphones,Ahmedabad,Vedika Chacko,5991,3,Online,1266.0,1577.7732229333988,3147.2267770666012,Pending,Cash on Delivery (COD),Advertisement
+2024-02-27,Manoj,Washing Machine,Bangalore,Chaitanya Sachar,24596,1,Retail,374.0,12754.552793578783,11467.447206421217,Cancelled,Credit Card,Email
+2024-10-14,Ravi,Air Conditioner,Ahmedabad,Chandresh Wason,49408,2,Retail,9769.065544008197,13701.738957912916,25937.195498078887,Shipped,Debit Card,Direct Visit
+2024-10-15,Neha,Smartphone,Ahmedabad,Chanakya Mannan,39413,1,Retail,5571.549727299357,10867.134615204657,22974.315657495987,Pending,Cash on Delivery (COD),Advertisement
+2024-06-14,Neha,Washing Machine,Pune,Brijesh Bandi,58689,1,Retail,2393.0,27526.23016759007,28769.76983240993,Cancelled,Credit Card,Referral
+2024-07-22,Neha,Tablet,Jaipur,Girik Kamdar,46244,1,Online,796.0,15883.119166838624,29564.880833161376,Shipped,Debit Card,Direct Visit
+2024-10-17,Manoj,Laptop,Hyderabad,Krishna Sood,55529,2,Online,5124.252046798851,10158.928454308807,40245.81949889234,Cancelled,UPI,Social Media
+2024-08-27,Priya,Bluetooth Speaker,Hyderabad,Lopa Vala,1385,4,Online,298.3249601296577,415.750605090719,670.9244347796233,Shipped,Net Banking,Email
+2024-02-23,Karan,Headphones,Bangalore,Jack Sura,1787,5,Online,222.0,711.4839668741657,853.5160331258343,Completed,UPI,Search Engine
+2024-03-08,Amit,Smartphone,Ahmedabad,Ayush Sen,69561,2,Retail,6045.975695670921,19352.101521013934,44162.922783315145,Completed,Debit Card,Email
+2024-10-01,Amit,Headphones,Lucknow,Andrew Desai,1961,1,Online,3138.0,-2312.3309803063303,1135.3309803063305,Shipped,Cash on Delivery (COD),Advertisement
+2024-12-23,Sushma,Camera,Chennai,Triya Mohanty,78188,1,Online,633.0,29396.901689587918,48158.09831041208,Shipped,Debit Card,Referral
+2024-04-23,Ravi,Bluetooth Speaker,Kolkata,Arjun Sama,2471,1,Retail,275.88886661450414,1267.673562557419,927.4375708280769,Completed,Debit Card,Search Engine
+2024-03-10,Amit,Camera,Lucknow,Tejas Sachdeva,39714,1,Online,1326.0,11442.149623263784,26945.850376736216,Completed,UPI,Referral
+2024-10-30,Sushma,Camera,Kolkata,Michael Khurana,21389,1,Retail,4282.3432627352595,5701.782907004797,11404.873830259943,Cancelled,Debit Card,Advertisement
+2024-02-22,Anjali,Tablet,Delhi,Jairaj Nagy,39835,1,Retail,8261.568041128694,9061.158023367547,22512.27393550376,Cancelled,Cash on Delivery (COD),Email
+2025-01-04,Ravi,Camera,Kolkata,Tejas Sachdeva,55502,2,Retail,4103.0,16781.364042583155,34617.635957416845,Returned,Credit Card,Advertisement
+2024-06-26,Sushma,Bluetooth Speaker,Bangalore,Zaid Tak,7828,5,Retail,2154.0,2005.8797345973217,3668.120265402679,Completed,Credit Card,Social Media
+2024-12-24,Priya,Smartwatch,Lucknow,Ayush Sen,13479,1,Online,565.0,6200.131590547816,6713.868409452184,Completed,Debit Card,Direct Visit
+2024-09-16,Manoj,Tablet,Delhi,Omisha Gera,5819,2,Online,4356.0,-2024.4669651376134,3487.4669651376134,Cancelled,UPI,Email
+2024-02-09,Priya,Air Conditioner,Bangalore,Bakhshi Subramanian,62959,1,Online,2469.0,24864.341599706182,35625.65840029382,Cancelled,Debit Card,Direct Visit
+2024-09-15,Neha,Refrigerator,Chennai,Hema Varughese,60905,2,Online,9366.451453224316,12339.261404138702,39199.28714263698,Completed,UPI,Direct Visit
+2024-04-22,Priya,Tablet,Chennai,Jalsa Kunda,7885,1,Online,1532.0,1288.5213075911051,5064.478692408895,Returned,Debit Card,Search Engine
+2024-03-15,Neha,Headphones,Kolkata,Ubika Kari,6949,5,Retail,2644.0,1230.6512332813168,3074.3487667186832,Cancelled,Cash on Delivery (COD),Social Media
+2024-03-02,Priya,Camera,Bangalore,Alka Gupta,61188,2,Retail,14488.722024511311,7907.332378063338,38791.94559742535,Returned,Debit Card,Email
+2024-05-25,Priya,Air Conditioner,Kolkata,Omisha Gera,25531,1,Retail,1670.0511814614263,7488.95753199318,16371.991286545393,Cancelled,Net Banking,Search Engine
+2024-09-22,Karan,Camera,Ahmedabad,Gayathri Shetty,25017,2,Retail,936.0,10131.154655005945,13949.845344994055,Completed,Cash on Delivery (COD),Social Media
+2025-01-10,Rajesh,Bluetooth Speaker,Mumbai,Nidra Varughese,7674,1,Online,2190.0,2577.563469223105,2906.4365307768944,Cancelled,UPI,Advertisement
+2024-03-21,Priya,Laptop,Ahmedabad,Ubika Khatri,117272,1,Online,13942.399799268253,24672.975563375734,78656.62463735601,Pending,Cash on Delivery (COD),Advertisement
+2024-12-13,Ravi,Refrigerator,Bangalore,Meghana Ravi,24999,1,Online,5882.567123316055,4465.119307469425,14651.31356921452,Cancelled,Debit Card,Direct Visit
+2024-07-16,Ravi,Camera,Hyderabad,Vedika Chacko,43302,1,Retail,1456.0,14101.52908474567,27744.47091525433,Pending,UPI,Referral
+2024-04-01,Anjali,Smartwatch,Lucknow,Samar Bakshi,8320,2,Online,1359.0,2246.7749532959187,4714.225046704081,Pending,UPI,Direct Visit
+2024-04-15,Karan,Camera,Jaipur,Bhavna Nath,78216,1,Online,2309.0,26734.257997129025,49172.742002870975,Shipped,UPI,Direct Visit
+2024-09-16,Priya,Camera,Chennai,Shaurya Nigam,15397,1,Retail,1355.4832379879006,6101.265456293315,7940.251305718784,Returned,Debit Card,Referral
+2024-08-29,Manoj,Refrigerator,Chennai,Sanaya Purohit,24495,1,Online,1873.0,9750.933107381901,12871.066892618099,Returned,Debit Card,Email
+2024-05-04,Manoj,Bluetooth Speaker,Lucknow,Harshil Raju,5861,1,Retail,2100.0,1263.0219914705326,2497.9780085294674,Shipped,Net Banking,Advertisement
+2024-05-15,Neha,Headphones,Delhi,Zaid Tak,9334,1,Online,946.2882323268433,4098.922477212209,4288.789290460948,Cancelled,Cash on Delivery (COD),Direct Visit
+2024-05-11,Sushma,Washing Machine,Pune,Krish Lala,38715,1,Online,2365.0,16260.868312851322,20089.131687148678,Returned,Cash on Delivery (COD),Advertisement
+2024-07-07,Karan,Bluetooth Speaker,Bangalore,Ryan Konda,7428,2,Retail,918.9348663708417,2969.534338467677,3539.5307951614814,Returned,Net Banking,Email
+2024-04-24,Amit,Smartwatch,Bangalore,Fitan Hans,4041,2,Online,2955.0,-1270.7111258775753,2356.7111258775753,Completed,UPI,Search Engine
+2024-02-09,Ravi,Smartwatch,Mumbai,Anita Balasubramanian,10202,1,Online,1055.4586745384454,3371.763124741004,5774.778200720551,Cancelled,UPI,Social Media
+2024-05-22,Vikram,Bluetooth Speaker,Chennai,Dhriti Babu,7996,2,Retail,3304.0,1613.7795912598413,3078.2204087401583,Cancelled,Credit Card,Social Media
+2024-10-06,Karan,Refrigerator,Jaipur,Mohini Bail,64292,1,Online,359.0,26980.981784854805,36952.018215145195,Pending,UPI,Direct Visit
+2024-09-26,Rajesh,Bluetooth Speaker,Mumbai,Balhaar Nadig,9558,2,Retail,1756.0,2816.2034679951594,4985.796532004841,Shipped,Credit Card,Search Engine
+2024-11-04,Ravi,Bluetooth Speaker,Lucknow,Alka Gupta,9675,2,Online,4221.0,1321.1422474400943,4132.857752559906,Pending,Net Banking,Advertisement
+2024-02-16,Vikram,Laptop,Lucknow,Wridesh Dora,76111,2,Online,5030.714457974954,23526.473670294527,47553.81187173052,Completed,Cash on Delivery (COD),Search Engine
+2024-03-22,Rajesh,Refrigerator,Lucknow,Vedant Saran,76849,1,Online,4078.009139342843,26445.24848822716,46325.742372429995,Cancelled,UPI,Email
+2024-07-30,Amit,Laptop,Bangalore,Mohini Bail,112126,2,Online,13805.781125450503,20315.45342421439,78004.76545033511,Shipped,Cash on Delivery (COD),Advertisement
+2024-04-24,Anjali,Refrigerator,Mumbai,Udant Saha,47722,2,Retail,3809.0,17782.772407575234,26130.227592424766,Shipped,Debit Card,Social Media
+2024-10-13,Sushma,Smartwatch,Jaipur,Zansi Shankar,23775,2,Online,3958.6563685917276,8792.545287781553,11023.798343626719,Pending,Cash on Delivery (COD),Email
+2024-04-22,Anjali,Smartwatch,Pune,Ubika Kari,12176,2,Online,1596.2059626037471,4785.489197521954,5794.3048398742985,Returned,Cash on Delivery (COD),Email
+2024-02-23,Anjali,Washing Machine,Lucknow,Bhanumati Arya,48884,2,Retail,3892.0,18395.450669892638,26596.549330107362,Pending,Net Banking,Direct Visit
+2024-03-21,Sushma,Camera,Jaipur,Advika Vyas,72350,1,Online,4901.0,30047.001918132846,37401.998081867154,Completed,Cash on Delivery (COD),Search Engine
+2024-10-27,Neha,Refrigerator,Hyderabad,Hema Varughese,34044,1,Retail,7450.516801847711,9420.379012066986,17173.104186085304,Completed,Cash on Delivery (COD),Advertisement
+2024-04-11,Vikram,Laptop,Hyderabad,Ryan Konda,92716,1,Retail,7169.862686946359,26516.720247095636,59029.417065958005,Completed,UPI,Advertisement
+2024-02-28,Manoj,Washing Machine,Bangalore,Zansi Shankar,20294,2,Online,960.0,9125.683825666601,10208.316174333399,Returned,Debit Card,Referral
+2024-04-29,Neha,Bluetooth Speaker,Mumbai,Anita Balasubramanian,892,2,Online,175.97833623240592,288.75479274349175,427.26687102410233,Cancelled,Debit Card,Referral
+2024-10-27,Manoj,Bluetooth Speaker,Delhi,Onkar Sodhi,3638,4,Retail,1793.0,172.09859248984458,1672.9014075101554,Cancelled,Credit Card,Social Media
+2024-02-13,Sushma,Washing Machine,Pune,Meghana Ravi,21491,1,Retail,3062.0,6407.5467822461615,12021.453217753839,Pending,UPI,Advertisement
+2024-05-08,Amit,Air Conditioner,Delhi,Nikita Bera,43729,2,Online,1561.0,15697.126501229359,26470.87349877064,Returned,Cash on Delivery (COD),Search Engine
+2024-06-29,Ravi,Laptop,Hyderabad,Chandresh Wason,87300,1,Online,4054.0,20692.738246275847,62553.26175372415,Completed,UPI,Search Engine
+2024-03-30,Priya,Bluetooth Speaker,Lucknow,Ekanta Gopal,8996,4,Retail,2658.0,2506.262854850851,3831.7371451491495,Returned,Credit Card,Search Engine
+2024-10-12,Ravi,Headphones,Jaipur,Garima Dhillon,7562,5,Online,1478.372131222987,2407.294185222827,3676.333683554186,Pending,Net Banking,Advertisement
+2024-06-26,Neha,Laptop,Hyderabad,Falan Mital,69846,1,Online,3220.0,22021.77030220761,44604.22969779239,Pending,UPI,Email
+2024-01-19,Manoj,Bluetooth Speaker,Delhi,Chakrika Kadakia,3607,3,Retail,2675.0,-446.3085937882697,1378.3085937882695,Pending,UPI,Search Engine
+2024-07-05,Neha,Camera,Hyderabad,Krish Lala,52641,2,Retail,4534.0,20451.51563271573,27655.48436728427,Cancelled,Net Banking,Referral
+2024-05-17,Amit,Headphones,Chennai,Advika Vyas,8451,3,Retail,2934.0,2107.564326785505,3409.4356732144956,Cancelled,Cash on Delivery (COD),Search Engine
+2024-07-13,Manoj,Refrigerator,Jaipur,Girik Kamdar,47091,2,Online,11639.323804496902,9955.131502191676,25496.54469331142,Shipped,UPI,Advertisement
+2024-06-18,Vikram,Bluetooth Speaker,Pune,Zansi Shankar,2692,3,Online,2896.0,-1644.469842916304,1440.469842916304,Pending,Debit Card,Advertisement
+2024-09-07,Neha,Smartwatch,Hyderabad,Niharika Sachdeva,23816,2,Retail,616.0,9840.438759301529,13359.561240698471,Returned,Cash on Delivery (COD),Search Engine
+2024-11-27,Manoj,Smartwatch,Bangalore,Jairaj Nagy,13090,2,Retail,2546.0,2700.117991412588,7843.882008587412,Completed,Cash on Delivery (COD),Social Media
+2024-10-08,Rajesh,Bluetooth Speaker,Chennai,Zansi Shankar,1107,4,Online,114.55109750722325,465.5853622577752,526.8635402350016,Completed,Cash on Delivery (COD),Search Engine
+2024-01-19,Ravi,Air Conditioner,Jaipur,Bahadurjit Sahni,50766,2,Online,12564.122789963307,10163.36652594531,28038.510684091383,Pending,Cash on Delivery (COD),Direct Visit
+2024-04-13,Rajesh,Headphones,Mumbai,Akshay Ghosh,5889,3,Retail,554.3456940831361,2275.9689928447497,3058.6853130721142,Shipped,Cash on Delivery (COD),Advertisement
+2025-01-03,Ravi,Smartphone,Mumbai,Lopa Vala,31879,4,Online,1323.0,11581.655696756716,18974.344303243284,Shipped,UPI,Direct Visit
+2024-06-09,Amit,Smartwatch,Hyderabad,Chanakya Mannan,22076,1,Retail,4818.151817260491,7175.911656369809,10081.9365263697,Shipped,Net Banking,Advertisement
+2024-07-28,Ravi,Camera,Jaipur,Vedika Chacko,59542,1,Online,3002.0,20985.23029040743,35554.76970959257,Shipped,UPI,Referral
+2024-03-01,Karan,Smartphone,Bangalore,Omisha Gera,16458,3,Retail,1933.0,4464.456868179457,10060.543131820543,Returned,Net Banking,Direct Visit
+2024-05-29,Amit,Washing Machine,Lucknow,Bakhshi Subramanian,33877,2,Online,3779.0,11810.957058961245,18287.042941038755,Returned,Debit Card,Search Engine
+2024-06-09,Priya,Tablet,Ahmedabad,Dev Varkey,35598,1,Online,2298.0,13048.345399099479,20251.65460090052,Completed,Credit Card,Referral
+2024-09-16,Rajesh,Smartwatch,Pune,Kavya Bhat,16003,1,Online,2585.0,4925.250422294155,8492.749577705845,Cancelled,UPI,Email
+2024-06-14,Manoj,Air Conditioner,Jaipur,Samesh Bawa,33470,2,Online,6735.74262566466,7759.062134837074,18975.195239498265,Shipped,Credit Card,Email
+2024-09-08,Karan,Headphones,Ahmedabad,Wridesh Dora,4187,4,Online,1870.0,537.2444324493677,1779.7555675506323,Cancelled,UPI,Direct Visit
+2024-07-23,Vikram,Headphones,Delhi,Samesh Bawa,4674,3,Retail,3076.0,-621.4114774227005,2219.4114774227005,Returned,Credit Card,Advertisement
+2024-11-08,Karan,Smartphone,Ahmedabad,Anita Balasubramanian,45343,2,Online,10655.436308718803,4563.015201417958,30124.54848986324,Pending,UPI,Direct Visit
+2024-12-17,Vikram,Air Conditioner,Delhi,Triya Mohanty,33424,1,Online,2569.0,11886.237712219656,18968.762287780344,Returned,Credit Card,Email
+2024-09-12,Sushma,Smartwatch,Ahmedabad,Kavya Bhat,20058,2,Online,2717.0,8189.258260161943,9151.741739838057,Cancelled,UPI,Referral
+2024-04-03,Karan,Camera,Chennai,Yagnesh Rajagopalan,25995,2,Retail,1858.080366594534,7985.340730213054,16151.578903192412,Shipped,Net Banking,Advertisement
+2024-06-19,Anjali,Smartwatch,Hyderabad,Lajita Balasubramanian,12233,1,Online,2900.0,2567.588149803376,6765.411850196624,Cancelled,Net Banking,Advertisement
+2024-08-03,Amit,Headphones,Pune,Yash Babu,9143,5,Online,2395.0,1880.4610764599447,4867.538923540055,Cancelled,Cash on Delivery (COD),Advertisement
+2024-04-19,Neha,Smartwatch,Lucknow,Anmol Rai,16488,2,Online,1989.9674627058457,5776.9074232298835,8721.12511406427,Completed,Credit Card,Direct Visit
+2024-12-01,Amit,Air Conditioner,Hyderabad,Yadavi Bakshi,52638,2,Online,7849.4884951752365,17239.821957993907,27548.689546830858,Cancelled,Cash on Delivery (COD),Direct Visit
+2024-11-26,Anjali,Smartphone,Kolkata,Jack Sura,47123,5,Retail,8973.990358059098,9477.817410598458,28671.192231342444,Pending,Credit Card,Social Media
+2024-07-17,Karan,Smartphone,Jaipur,Lajita Balasubramanian,27252,4,Online,4973.255798478536,3706.211539292437,18572.532662229027,Cancelled,Credit Card,Referral
+2024-01-21,Rajesh,Laptop,Chennai,Vedhika Ram,120095,2,Retail,17800.86794567424,12984.727401552605,89309.40465277316,Cancelled,Debit Card,Referral
+2024-09-05,Priya,Washing Machine,Bangalore,Harrison Shere,35532,2,Retail,6462.929476034104,9430.181793379237,19638.88873058666,Pending,UPI,Social Media
+2024-11-28,Neha,Camera,Pune,Jack Sura,82353,2,Online,16731.92495876224,24260.947857243395,41360.127183994366,Completed,UPI,Email
+2024-10-13,Amit,Tablet,Jaipur,Samuel Bedi,5180,1,Online,1009.0877857699217,1005.0050276488072,3165.907186581271,Completed,Net Banking,Advertisement
+2024-09-24,Ravi,Refrigerator,Mumbai,Dev Varkey,45695,1,Retail,8026.810611711272,8436.46093723816,29231.728451050567,Cancelled,Credit Card,Email
+2024-11-19,Karan,Washing Machine,Bangalore,Ubika Kari,19856,1,Online,2710.478980227095,8125.141832269044,9020.37918750386,Shipped,Net Banking,Social Media
+2024-05-15,Manoj,Smartwatch,Bangalore,Suhani Patil,16991,2,Online,3965.675736748792,2918.017809181652,10107.306454069556,Returned,Cash on Delivery (COD),Referral
+2024-05-03,Manoj,Air Conditioner,Lucknow,Harshil Raju,42112,1,Retail,8225.416736574069,11620.684844786338,22265.898418639594,Cancelled,Cash on Delivery (COD),Social Media
+2024-05-04,Rajesh,Refrigerator,Ahmedabad,Meghana Ravi,23082,2,Retail,1377.2574730174301,8736.245401872235,12968.497125110334,Shipped,Cash on Delivery (COD),Social Media
+2024-03-01,Karan,Air Conditioner,Hyderabad,Lajita Balasubramanian,44330,1,Retail,7519.659185783098,13376.159014890742,23434.18179932616,Shipped,Net Banking,Search Engine
+2024-02-24,Neha,Bluetooth Speaker,Lucknow,Harrison Shere,9648,3,Online,2240.0,3281.3076959399023,4126.692304060098,Returned,Net Banking,Advertisement
+2025-01-01,Vikram,Bluetooth Speaker,Pune,Nidhi Bera,2590,3,Retail,2945.0,-1746.2129975284654,1391.2129975284654,Shipped,Credit Card,Email
+2024-03-11,Anjali,Smartwatch,Chennai,Krishna Sood,16314,1,Online,1549.0,6134.9880499172705,8630.01195008273,Pending,Credit Card,Referral
+2024-09-02,Priya,Smartphone,Lucknow,Meghana Ravi,15460,3,Online,3530.9824144918052,1311.3089186792936,10617.708666828901,Returned,Credit Card,Search Engine
+2024-11-04,Rajesh,Air Conditioner,Delhi,Samuel Bedi,31195,1,Online,1528.0,12735.557474770456,16931.442525229544,Pending,Debit Card,Referral
+2024-10-02,Neha,Washing Machine,Lucknow,Avi Sen,40066,2,Online,6875.115478470794,13294.816567280166,19896.06795424904,Returned,Cash on Delivery (COD),Direct Visit
+2024-08-30,Sushma,Headphones,Mumbai,Andrew Desai,6456,1,Online,2962.0,-335.7749890836926,3829.7749890836926,Pending,Debit Card,Search Engine
+2024-05-07,Neha,Headphones,Hyderabad,Ayush Sen,8957,3,Online,1586.0043036695754,3210.109081029618,4160.886615300807,Shipped,Net Banking,Search Engine
+2024-12-15,Neha,Washing Machine,Delhi,Jackson Sura,30711,2,Online,4150.697681227418,9399.966210909271,17160.33610786331,Pending,Debit Card,Direct Visit
+2024-08-18,Manoj,Laptop,Lucknow,Dev Varkey,73849,1,Retail,2422.0,19529.438553657434,51897.561446342566,Cancelled,Cash on Delivery (COD),Direct Visit
+2024-04-07,Amit,Headphones,Ahmedabad,Ekiya Palan,6829,5,Online,1360.772453208909,2081.516137776216,3386.7114090148752,Pending,Cash on Delivery (COD),Search Engine
+2024-09-15,Priya,Laptop,Kolkata,Bhavna Nath,149362,1,Retail,1403.0,49360.496217623484,98598.50378237652,Returned,Cash on Delivery (COD),Advertisement
+2024-09-05,Priya,Camera,Mumbai,Avi Sen,84317,1,Online,10711.821695789935,20592.858692764,53012.319611446066,Cancelled,Debit Card,Referral
+2024-10-06,Vikram,Refrigerator,Jaipur,Bina Kant,52799,1,Online,7654.5370821588895,10975.87715827416,34168.58575956695,Cancelled,Net Banking,Direct Visit
+2024-10-07,Amit,Air Conditioner,Kolkata,Alka Gupta,64090,2,Retail,2698.0,22414.5379137673,38977.4620862327,Cancelled,Credit Card,Social Media
+2024-10-30,Neha,Bluetooth Speaker,Pune,Jackson Sura,9536,5,Retail,2362.7086930996898,2083.846001261642,5089.445305638668,Cancelled,Cash on Delivery (COD),Direct Visit
+2024-08-23,Anjali,Refrigerator,Hyderabad,Jalsa Kunda,52925,1,Online,7637.572859978451,11004.879105962287,34282.54803405926,Shipped,Debit Card,Referral
+2024-08-17,Karan,Camera,Kolkata,Rehaan Rajan,52787,1,Retail,12180.182362026095,4986.9205159503435,35619.89712202356,Completed,Credit Card,Advertisement
+2024-12-29,Anjali,Camera,Kolkata,Kavya Bhat,70263,1,Retail,6244.895660259589,23050.088457763104,40968.015881977306,Shipped,UPI,Direct Visit
+2024-08-29,Sushma,Refrigerator,Mumbai,Saumya Ratti,26238,2,Online,421.0,11398.703992358971,14418.296007641029,Cancelled,Net Banking,Advertisement
+2024-10-23,Ravi,Camera,Delhi,Rehaan Rajan,63193,2,Retail,7958.841493048741,15266.482125352624,39967.676381598634,Pending,Debit Card,Direct Visit
+2024-12-04,Ravi,Smartwatch,Chennai,Chaitanya Sachar,9314,2,Online,3291.0,1273.3541233041688,4749.645876695831,Cancelled,Debit Card,Search Engine
+2025-01-09,Anjali,Headphones,Mumbai,Girik Kamdar,5133,5,Online,2038.0,614.4075819328664,2480.5924180671336,Completed,Credit Card,Social Media
+2024-07-06,Ravi,Headphones,Chennai,Kalpit Sarkar,7715,1,Retail,2118.0,1840.6827840403375,3756.3172159596625,Shipped,UPI,Advertisement
+2024-06-06,Ravi,Refrigerator,Delhi,Orinder Anand,53922,2,Online,2749.0,17950.256852758946,33222.74314724105,Cancelled,Net Banking,Social Media
+2024-06-29,Manoj,Refrigerator,Delhi,Krishna Sood,57758,2,Online,14099.436299183915,9664.807146322964,33993.75655449312,Cancelled,Net Banking,Referral
+2024-09-29,Neha,Smartwatch,Chennai,Jackson Sura,17721,2,Online,3906.612310688098,4492.112761214699,9322.274928097202,Pending,Cash on Delivery (COD),Direct Visit
+2024-12-28,Anjali,Headphones,Hyderabad,Ekanta Gopal,2182,4,Retail,337.46595782047984,923.9834763343067,920.5505658452134,Shipped,UPI,Referral
+2024-12-14,Neha,Camera,Jaipur,Brijesh Bandi,98656,1,Retail,2164.0,35721.88256893524,60770.11743106476,Pending,Debit Card,Direct Visit
+2024-07-02,Manoj,Headphones,Delhi,Harrison Shere,6523,4,Retail,1037.4901085022307,2125.1410756783293,3360.36881581944,Pending,UPI,Social Media
+2024-03-22,Manoj,Washing Machine,Kolkata,Udant Saha,42313,1,Online,1307.0,20758.428186761386,20247.571813238614,Returned,Credit Card,Direct Visit
+2024-02-27,Rajesh,Headphones,Pune,Harshil Raju,9177,2,Retail,1502.9761685795706,3106.5469358580435,4567.476895562386,Completed,UPI,Direct Visit
+2024-05-02,Anjali,Headphones,Jaipur,Orinder Anand,1744,3,Retail,3993.0,-3097.013012671646,848.0130126716459,Cancelled,Debit Card,Direct Visit
+2024-02-15,Rajesh,Refrigerator,Pune,Rehaan Rajan,40186,2,Retail,6563.911091758154,12944.217075909251,20677.871832332596,Cancelled,Debit Card,Advertisement
+2024-05-29,Ravi,Air Conditioner,Hyderabad,Orinder Anand,49264,2,Retail,5192.915398240736,12405.732019040825,31665.35258271844,Returned,Credit Card,Advertisement
+2024-09-17,Ravi,Smartwatch,Mumbai,Pavani Nair,20503,1,Online,5033.058220245196,6041.5397872040785,9428.401992550725,Shipped,Credit Card,Advertisement
+2024-02-17,Rajesh,Smartphone,Kolkata,Wridesh Dora,65767,1,Retail,10590.514204212921,16562.966472342472,38613.519323444605,Shipped,UPI,Email
+2024-10-27,Anjali,Washing Machine,Hyderabad,Ubika Khatri,15494,1,Online,1776.556089435318,4602.573429911745,9114.870480652937,Returned,Net Banking,Advertisement
+2024-09-27,Rajesh,Refrigerator,Lucknow,Ekavir Warrior,67733,2,Retail,1388.0,30151.985741745768,36193.01425825423,Shipped,Credit Card,Advertisement
+2024-09-29,Ravi,Smartwatch,Lucknow,Farhan Wali,7838,2,Online,4586.0,-592.1696612793571,3844.169661279357,Completed,Cash on Delivery (COD),Search Engine
+2024-07-05,Neha,Refrigerator,Pune,Kavya Bhat,26944,2,Online,1993.0,10247.615105748599,14703.384894251401,Cancelled,Cash on Delivery (COD),Referral
+2024-10-25,Karan,Camera,Ahmedabad,Jackson Sura,32404,2,Online,3343.7767666486884,8650.74443992663,20409.47879342468,Pending,UPI,Search Engine
+2025-01-11,Karan,Smartwatch,Ahmedabad,Nidhi Bera,5087,1,Retail,1818.0,859.6869634867908,2409.313036513209,Completed,Credit Card,Email
+2024-09-17,Rajesh,Washing Machine,Hyderabad,Vritti Kapoor,22570,2,Online,5289.182004522883,4283.438192553285,12997.379802923831,Pending,Net Banking,Social Media
+2024-11-30,Ravi,Air Conditioner,Bangalore,Vamakshi Ratta,49223,2,Retail,1803.0,17500.81883039498,29919.18116960502,Pending,Debit Card,Direct Visit
+2024-11-02,Neha,Camera,Ahmedabad,Ayush Sen,65955,2,Online,4134.679869110246,26547.954929748354,35272.3652011414,Shipped,Cash on Delivery (COD),Referral
+2024-03-16,Ravi,Camera,Chennai,Krishna Sood,33100,2,Online,2037.4115041672599,10669.41496245686,20393.17353337588,Cancelled,Credit Card,Direct Visit
+2024-04-16,Ravi,Air Conditioner,Kolkata,Chandresh Wason,40433,1,Retail,3250.5334502231703,12623.226958358911,24559.239591417918,Shipped,Cash on Delivery (COD),Direct Visit
+2024-08-01,Manoj,Air Conditioner,Lucknow,Manan Gopal,67817,1,Online,1929.0,29219.50378244772,36668.49621755228,Returned,Cash on Delivery (COD),Search Engine
+2024-01-28,Ravi,Smartwatch,Chennai,Garima Srivastava,3391,2,Retail,4348.0,-2580.459802618934,1623.4598026189342,Completed,UPI,Direct Visit
+2024-12-01,Vikram,Smartphone,Ahmedabad,Gunbir Raman,61831,4,Online,738.0,19649.23054057626,41443.76945942374,Completed,Cash on Delivery (COD),Referral
+2024-01-19,Karan,Smartwatch,Kolkata,Tripti Dua,24626,1,Retail,1346.0,9495.611684193153,13784.388315806847,Cancelled,Net Banking,Search Engine
+2024-07-16,Manoj,Smartwatch,Kolkata,Akshay Ghosh,6672,1,Online,2156.0,685.428376128024,3830.571623871976,Pending,Debit Card,Advertisement
+2024-11-03,Ravi,Laptop,Delhi,Nidhi Bera,99537,2,Online,13598.53223174854,22871.53739775672,63066.93037049474,Pending,Credit Card,Search Engine
+2024-01-29,Sushma,Smartwatch,Delhi,Dhriti Babu,22598,2,Online,4730.0,6536.240340817942,11331.759659182058,Shipped,Net Banking,Direct Visit
+2024-02-04,Neha,Smartwatch,Lucknow,Avi Sen,4487,1,Online,307.0447410435058,2066.7744892500527,2113.1807697064414,Returned,UPI,Direct Visit
+2024-04-25,Karan,Laptop,Mumbai,Ubika Khatri,73676,2,Online,2981.0,17150.090465174137,53544.90953482586,Returned,Net Banking,Direct Visit
+2025-01-17,Sushma,Tablet,Mumbai,Ekavir Warrior,44895,2,Retail,8361.901777739404,9302.322231675109,27230.775990585487,Returned,Cash on Delivery (COD),Advertisement
+2024-02-05,Vikram,Laptop,Bangalore,Onkar Sodhi,137600,2,Retail,31358.974582556828,15196.442170152408,91044.58324729076,Returned,UPI,Social Media
+2024-11-19,Karan,Tablet,Lucknow,Yagnesh Rajagopalan,22757,1,Retail,3985.0,5874.257517902881,12897.74248209712,Completed,Net Banking,Advertisement
+2024-11-14,Amit,Laptop,Ahmedabad,Ubika Kari,138394,1,Online,7507.557148544663,44637.3811023925,86249.06174906284,Pending,Net Banking,Direct Visit
+2024-02-29,Karan,Tablet,Delhi,Akshay Ghosh,15540,2,Retail,4656.0,2861.7521016099445,8022.2478983900555,Cancelled,Cash on Delivery (COD),Email
+2024-04-02,Sushma,Smartwatch,Ahmedabad,Michael Khurana,22611,2,Online,4256.0,7067.686505881931,11287.313494118069,Completed,Debit Card,Referral
+2024-06-26,Vikram,Camera,Ahmedabad,Krish Lala,90618,2,Retail,1760.0,36761.76719927729,52096.23280072271,Shipped,Credit Card,Referral
+2024-05-09,Ravi,Washing Machine,Chennai,Chaman Atwal,42876,1,Online,4436.0,16314.589242702721,22125.41075729728,Cancelled,Cash on Delivery (COD),Email
+2024-05-22,Manoj,Headphones,Hyderabad,Anthony Bandi,4410,1,Retail,778.6337949766772,1381.896429417512,2249.469775605811,Returned,UPI,Search Engine
+2024-12-13,Anjali,Washing Machine,Lucknow,Krishna Sood,22418,1,Retail,3634.0,5830.485306619379,12953.51469338062,Cancelled,Debit Card,Email
+2024-07-03,Ravi,Camera,Kolkata,Ayush Sen,52655,2,Online,3407.0,14171.89339667515,35076.10660332485,Returned,Cash on Delivery (COD),Social Media
+2025-01-08,Ravi,Laptop,Jaipur,Kalpit Sarkar,117397,2,Retail,8245.842986116695,23710.69405466452,85440.46295921878,Returned,Cash on Delivery (COD),Search Engine
+2024-01-26,Karan,Smartwatch,Lucknow,Bahadurjit Sahni,17164,1,Retail,910.8237740280841,6649.744772723212,9603.431453248704,Returned,Cash on Delivery (COD),Advertisement
+2024-02-20,Neha,Smartphone,Mumbai,Harshil Raju,48098,3,Online,484.0,20487.21519156352,27126.78480843648,Completed,UPI,Search Engine
+2024-03-25,Priya,Smartwatch,Jaipur,Jack Sura,17059,1,Online,2981.0,5656.654150830671,8421.345849169329,Returned,Credit Card,Advertisement
+2024-12-26,Neha,Smartwatch,Bangalore,Farhan Wali,4176,1,Online,336.67463381283,1646.4040715439533,2192.9212946432167,Cancelled,UPI,Social Media
+2024-03-18,Sushma,Laptop,Hyderabad,Krish Lala,82310,2,Online,19121.352859222534,13200.006544718424,49988.64059605904,Pending,UPI,Advertisement
+2024-12-23,Amit,Refrigerator,Jaipur,Tejas Sachdeva,56063,2,Retail,3342.0,17935.40525644319,34785.59474355681,Returned,Credit Card,Referral
+2024-10-11,Vikram,Tablet,Lucknow,Nidhi Bera,47464,2,Retail,292.0,16756.325711156634,30415.674288843366,Completed,UPI,Advertisement
+2024-06-11,Priya,Refrigerator,Mumbai,Rehaan Rajan,39955,1,Online,4141.0,12700.49768329829,23113.50231670171,Pending,Cash on Delivery (COD),Search Engine
+2024-05-12,Karan,Refrigerator,Jaipur,Bhavna Nath,46088,1,Retail,3479.0,15218.954217035964,27390.045782964036,Cancelled,Net Banking,Email
+2024-05-07,Sushma,Headphones,Ahmedabad,Lopa Vala,5965,3,Online,4253.0,-1429.4365745404216,3141.4365745404216,Pending,Debit Card,Direct Visit
+2024-10-07,Karan,Washing Machine,Chennai,Charvi Dasgupta,22938,2,Retail,1922.5154627957247,10364.525623779282,10650.958913424993,Cancelled,UPI,Search Engine
+2024-01-29,Karan,Air Conditioner,Delhi,Kavya Bhat,40510,2,Retail,4275.058934789381,12723.536412475245,23511.404652735375,Shipped,UPI,Direct Visit
+2024-02-28,Sushma,Refrigerator,Chennai,Ubika Kari,43109,2,Retail,4718.857786858624,12690.090467240068,25700.051745901306,Completed,UPI,Social Media
+2024-07-08,Karan,Bluetooth Speaker,Mumbai,Hema Varughese,6682,3,Retail,1616.1770842909475,1493.3482255791907,3572.4746901298618,Completed,Credit Card,Search Engine
+2024-03-02,Rajesh,Tablet,Ahmedabad,Vritti Kapoor,35008,2,Online,4374.936757764166,10611.22037831212,20021.842863923714,Returned,Debit Card,Direct Visit
+2024-02-24,Neha,Headphones,Kolkata,Suhani Patil,7416,1,Online,3975.0,-688.2084893512838,4129.208489351284,Returned,Net Banking,Social Media
+2024-11-22,Amit,Headphones,Chennai,Ayush Sen,6173,1,Online,714.9405827015697,2802.0448867311015,2656.0145305673286,Shipped,Debit Card,Direct Visit
+2024-10-27,Ravi,Bluetooth Speaker,Mumbai,Anthony Bandi,1947,3,Retail,4017.0,-2855.592713194019,785.5927131940186,Cancelled,UPI,Search Engine
+2024-02-12,Rajesh,Tablet,Bangalore,Nidra Varughese,31193,1,Online,7411.975933614023,4174.734820975158,19606.28924541082,Completed,UPI,Referral
+2024-07-10,Neha,Tablet,Kolkata,Shaurya Nigam,42082,2,Online,291.0,15412.214260859175,26378.785739140825,Pending,Cash on Delivery (COD),Direct Visit
+2024-02-07,Manoj,Laptop,Hyderabad,Andrew Desai,148490,2,Retail,1209.0,55926.57601438348,91354.42398561652,Returned,Net Banking,Direct Visit
+2024-04-03,Sushma,Smartwatch,Lucknow,Yadavi Bakshi,11365,1,Online,3740.0,1879.9944704546251,5745.005529545375,Pending,Credit Card,Advertisement
+2024-12-08,Priya,Smartwatch,Delhi,Anita Balasubramanian,6170,2,Online,951.4085629234457,2414.5451768796765,2804.046260196878,Shipped,Credit Card,Referral
+2024-05-09,Priya,Smartwatch,Delhi,Gayathri Dugar,9547,2,Retail,3522.0,1524.983193907069,4500.016806092931,Pending,Credit Card,Referral
+2024-07-13,Amit,Smartphone,Jaipur,Ikshita Narayanan,54909,2,Retail,3005.936755220094,15886.96848595309,36016.09475882682,Returned,Credit Card,Direct Visit
+2024-11-30,Ravi,Air Conditioner,Lucknow,Michael Khurana,67587,1,Online,1732.0,25815.46827836842,40039.53172163158,Cancelled,Debit Card,Search Engine
+2025-01-08,Neha,Bluetooth Speaker,Ahmedabad,Jairaj Sankaran,9391,5,Retail,2858.0,2896.4944065781956,3636.5055934218044,Completed,UPI,Advertisement
+2024-12-06,Anjali,Refrigerator,Kolkata,Samuel Bedi,47092,2,Online,8696.784081557238,9083.776636791506,29311.439281651255,Completed,Credit Card,Email
+2024-06-29,Karan,Smartphone,Chennai,Shaurya Nigam,31059,3,Online,2185.5035176028705,7560.252137174733,21313.244345222396,Shipped,Cash on Delivery (COD),Email
+2024-11-20,Ravi,Camera,Delhi,Falan Mital,94797,2,Retail,1150.0,36917.020061768526,56729.979938231474,Completed,Net Banking,Advertisement
+2024-02-25,Sushma,Headphones,Kolkata,Rehaan Rajan,1950,1,Online,250.6401986754811,871.9010167133677,827.4587846111511,Returned,Net Banking,Email
+2024-04-08,Priya,Headphones,Kolkata,Gayathri Shetty,9870,4,Online,1354.7878440399338,2689.237633077396,5825.9745228826705,Returned,Debit Card,Social Media
+2024-12-02,Vikram,Refrigerator,Jaipur,Mohini Bail,53381,2,Retail,5460.503110360774,15585.794879547719,32334.702010091507,Pending,Cash on Delivery (COD),Social Media
+2024-12-25,Neha,Tablet,Hyderabad,Ubika Khatri,17664,1,Online,3316.5754975789955,4624.966063013135,9722.45843940787,Cancelled,Net Banking,Referral
+2024-12-20,Priya,Refrigerator,Jaipur,Samuel Bedi,63807,2,Online,4611.0,26581.97646573648,32614.02353426352,Shipped,Credit Card,Email
+2024-05-04,Neha,Tablet,Ahmedabad,Ekavir Warrior,38391,2,Retail,482.0,17620.261996764326,20288.738003235674,Returned,Debit Card,Advertisement
+2024-05-13,Amit,Smartphone,Hyderabad,Omisha Gera,13967,5,Online,2384.0,2524.3978549308267,9058.602145069173,Completed,UPI,Social Media
+2024-11-11,Ravi,Smartphone,Pune,Zansi Shankar,59695,3,Retail,13687.675031000499,12365.135985889823,33642.18898310968,Pending,Credit Card,Referral
+2024-05-10,Ravi,Smartwatch,Jaipur,Manan Gopal,10012,2,Online,1194.7578575377343,3780.2100980867567,5037.032044375509,Returned,Credit Card,Email
+2024-09-12,Sushma,Bluetooth Speaker,Delhi,Ikshita Narayanan,5789,1,Retail,1944.0,832.6350748127911,3012.364925187209,Completed,Credit Card,Email
+2025-01-14,Karan,Washing Machine,Jaipur,Harrison Shere,38362,1,Retail,6527.6858737463435,9848.510786472729,21985.803339780927,Shipped,Net Banking,Search Engine
+2024-10-09,Vikram,Smartphone,Chennai,Ekanta Gopal,34413,3,Online,8140.312804224104,6505.1287381293805,19767.558457646515,Returned,Cash on Delivery (COD),Referral
+2024-07-26,Sushma,Air Conditioner,Hyderabad,Akshay Ghosh,25785,1,Retail,351.0,9696.99915645484,15737.00084354516,Completed,Debit Card,Social Media
+2024-06-16,Ravi,Refrigerator,Kolkata,Gaurika Vohra,32344,1,Retail,4528.0,10167.144775246703,17648.855224753297,Returned,UPI,Email
+2024-07-28,Sushma,Refrigerator,Ahmedabad,Shaurya Nigam,69514,2,Online,12886.598839703156,20048.407989296196,36578.99317100065,Returned,Net Banking,Email
+2024-02-16,Priya,Smartwatch,Bangalore,Ryan Konda,19970,1,Online,412.0,7909.418644438383,11648.581355561617,Cancelled,Debit Card,Advertisement
+2024-04-29,Rajesh,Headphones,Chennai,Suhani Patil,1976,4,Retail,243.0,736.2661663763613,996.7338336236387,Shipped,Cash on Delivery (COD),Referral
+2024-10-04,Amit,Laptop,Chennai,Suhani Patil,100359,1,Online,22663.2057087283,6302.306539389963,71393.48775188174,Shipped,Credit Card,Search Engine
+2024-10-18,Karan,Air Conditioner,Lucknow,Harrison Shere,33876,1,Online,6263.701200471496,7866.3737377416255,19745.92506178688,Cancelled,UPI,Referral
+2024-03-23,Vikram,Laptop,Hyderabad,Kalpit Sarkar,79158,2,Online,2777.0,22058.74284914486,54322.25715085514,Returned,Cash on Delivery (COD),Direct Visit
+2024-05-19,Anjali,Refrigerator,Pune,Anita Balasubramanian,55300,1,Online,2151.0,18803.12657027723,34345.87342972277,Completed,Cash on Delivery (COD),Advertisement
+2024-08-16,Sushma,Smartphone,Delhi,Chakrika Ramesh,19846,5,Retail,4692.0,1417.2114582327613,13736.788541767239,Completed,Credit Card,Referral
+2024-02-12,Anjali,Bluetooth Speaker,Jaipur,Nikita Bera,1788,3,Retail,435.0874245266872,707.5446324966628,645.36794297665,Shipped,Credit Card,Advertisement
+2024-12-04,Manoj,Smartwatch,Ahmedabad,Bhavna Nath,10411,2,Online,1662.7177425051411,3941.64685225246,4806.6354052423985,Returned,Debit Card,Direct Visit
+2024-08-25,Ravi,Laptop,Bangalore,Ayush Sen,146804,2,Online,18578.517027895192,21932.89877807319,106292.58419403162,Completed,Cash on Delivery (COD),Direct Visit
+2024-07-06,Ravi,Headphones,Pune,Yagnesh Rajagopalan,6733,3,Online,791.1470478934691,2625.103119720171,3316.7498323863597,Pending,UPI,Search Engine
+2024-07-21,Ravi,Washing Machine,Lucknow,Avi Sen,39433,1,Retail,3341.959333223899,16664.16283373575,19426.87783304035,Returned,Credit Card,Advertisement
+2024-09-06,Priya,Camera,Bangalore,Samar Bakshi,36325,2,Online,7124.394671975245,7041.415721063405,22159.18960696135,Cancelled,Credit Card,Social Media
+2024-07-08,Ravi,Smartwatch,Delhi,Hema Varughese,18939,1,Retail,720.0,9062.465052657606,9156.534947342394,Cancelled,Net Banking,Search Engine
+2024-04-04,Karan,Refrigerator,Delhi,Orinder Anand,67030,1,Retail,8325.536558464944,25103.232209358033,33601.23123217702,Pending,Credit Card,Email
+2024-09-18,Amit,Refrigerator,Pune,Arjun Sama,46821,1,Online,4213.0,13482.118666485443,29125.881333514557,Completed,UPI,Advertisement
+2024-04-27,Ravi,Tablet,Jaipur,Ikshita Narayanan,7212,2,Online,4850.0,-1417.4890654700803,3779.4890654700803,Shipped,Net Banking,Search Engine
+2024-10-09,Rajesh,Refrigerator,Ahmedabad,Akshay Ghosh,36820,1,Online,7333.35798499951,10095.96929098638,19390.672724014108,Pending,Net Banking,Social Media
+2024-10-13,Manoj,Headphones,Lucknow,Ekavir Warrior,7896,1,Retail,1388.0,2202.2583820184464,4305.741617981554,Cancelled,Credit Card,Search Engine
+2024-02-03,Anjali,Smartwatch,Lucknow,Vamakshi Ratta,4489,2,Retail,1477.0,803.2570686281915,2208.7429313718085,Returned,Cash on Delivery (COD),Search Engine
+2024-01-23,Ravi,Bluetooth Speaker,Chennai,Triya Mohanty,7730,3,Retail,4223.0,-321.8285503871257,3828.8285503871257,Completed,UPI,Email
+2024-12-12,Rajesh,Tablet,Mumbai,Farhan Wali,58397,1,Online,4700.8895945959775,19079.60115876418,34616.50924663984,Shipped,UPI,Search Engine
+2024-08-12,Karan,Refrigerator,Kolkata,Mohini Bail,26661,2,Online,2334.0,10505.900785187076,13821.099214812924,Cancelled,Net Banking,Social Media
+2024-07-08,Rajesh,Tablet,Pune,Advika Vyas,31497,2,Retail,1419.0,10292.801620696508,19785.198379303492,Shipped,Cash on Delivery (COD),Advertisement
+2024-09-13,Rajesh,Air Conditioner,Hyderabad,Saumya Ratti,31174,1,Online,2721.0,10771.618461329148,17681.381538670852,Cancelled,UPI,Search Engine
+2024-02-13,Rajesh,Air Conditioner,Kolkata,Michael Khurana,26192,2,Online,4997.55631666892,7480.339117614599,13714.104565716481,Returned,UPI,Social Media
+2024-09-16,Rajesh,Tablet,Pune,Yash Babu,22764,1,Retail,3705.0,5186.659014251203,13872.340985748797,Cancelled,Credit Card,Social Media
+2024-04-26,Vikram,Tablet,Hyderabad,Vedhika Ram,10158,2,Retail,697.0,2897.5192297906715,6563.4807702093285,Cancelled,UPI,Advertisement
+2024-09-28,Neha,Smartphone,Jaipur,Vedika Chacko,24728,1,Retail,4769.0,5410.4806265910665,14548.519373408933,Shipped,UPI,Advertisement
+2024-03-13,Neha,Air Conditioner,Hyderabad,Garima Dhillon,55926,1,Retail,2939.8046976034,24983.7342234189,28002.4610789777,Pending,Debit Card,Search Engine
+2024-03-10,Neha,Tablet,Bangalore,Charvi Dasgupta,42752,2,Online,8240.616349012726,8245.15867692924,26266.224974058034,Pending,UPI,Email
+2024-06-19,Karan,Headphones,Lucknow,Orinder Anand,8913,3,Retail,1761.0,2491.219022419341,4660.780977580659,Returned,UPI,Advertisement
+2024-04-19,Sushma,Smartphone,Mumbai,Bina Kant,11355,5,Online,3677.0,508.2177305568539,7169.782269443146,Completed,Debit Card,Social Media
+2024-08-07,Manoj,Tablet,Pune,Dhriti Babu,18010,2,Retail,4198.2610781983485,2880.5524138426,10931.186507959052,Pending,Credit Card,Direct Visit
+2024-11-02,Anjali,Refrigerator,Bangalore,Gunbir Raman,40679,1,Online,1308.0,17996.537019668638,21374.462980331362,Pending,Debit Card,Social Media
+2024-10-14,Ravi,Headphones,Pune,Andrew Desai,6381,1,Retail,2973.0,-241.62851804432557,3649.6285180443256,Cancelled,Debit Card,Referral
+2024-09-15,Manoj,Headphones,Ahmedabad,Ekapad Wason,5586,5,Online,820.0,2259.0472664188105,2506.9527335811895,Cancelled,Debit Card,Social Media
+2024-02-15,Sushma,Tablet,Ahmedabad,Krish Lala,58722,2,Online,11484.44403209651,16089.377491027908,31148.178476875582,Shipped,Debit Card,Search Engine
+2024-12-02,Anjali,Tablet,Delhi,Akshay Ghosh,48054,2,Retail,8327.49477618111,14680.81461655001,25045.69060726888,Shipped,Credit Card,Referral
+2024-06-22,Rajesh,Air Conditioner,Kolkata,Vanya Jaggi,40502,2,Online,2541.8489133575345,16084.841631954409,21875.309454688057,Shipped,Credit Card,Social Media
+2024-04-02,Vikram,Laptop,Delhi,Ekiya Palan,136584,1,Retail,16741.425794962455,33031.359907645136,86811.2142973924,Cancelled,Net Banking,Social Media
+2024-06-01,Amit,Headphones,Chennai,Jairaj Sankaran,5450,3,Retail,3508.0,-602.8500617588661,2544.850061758866,Shipped,Debit Card,Social Media
+2024-09-07,Rajesh,Washing Machine,Delhi,Vamakshi Ratta,21067,2,Online,1223.6223578257798,9985.9103746397,9857.467267534521,Completed,Credit Card,Email
+2024-04-18,Karan,Smartwatch,Jaipur,Garima Srivastava,10170,2,Retail,3902.0,802.0687102770835,5465.9312897229165,Shipped,Cash on Delivery (COD),Social Media
+2024-09-27,Anjali,Refrigerator,Bangalore,Ubika Khatri,76355,2,Retail,4800.693064875248,31056.000196047717,40498.30673907704,Cancelled,Net Banking,Advertisement
+2024-05-02,Vikram,Bluetooth Speaker,Pune,Kalpit Sarkar,1699,5,Retail,3223.0,-2269.0936872019934,745.0936872019935,Pending,Net Banking,Email
+2024-05-18,Sushma,Laptop,Bangalore,Dalbir Karan,100891,1,Retail,7816.983082031292,20354.588553659836,72719.42836430887,Returned,UPI,Advertisement
+2024-04-27,Ravi,Smartphone,Pune,Lajita Balasubramanian,19490,3,Online,3562.909088870206,2980.016178925608,12947.074732204186,Pending,Net Banking,Referral
+2024-10-10,Sushma,Camera,Chennai,Ekavir Warrior,67709,2,Online,10602.433495686693,12000.66642890061,45105.9000754127,Shipped,Cash on Delivery (COD),Advertisement
+2024-11-09,Sushma,Refrigerator,Hyderabad,Yash Babu,59823,1,Retail,2223.0,19662.595666879053,37937.40433312095,Pending,Credit Card,Referral
+2024-03-23,Priya,Headphones,Lucknow,Chanakya Mannan,8746,5,Retail,1375.5458998790507,3357.3530592144098,4013.1010409065393,Returned,UPI,Direct Visit
+2024-08-17,Karan,Refrigerator,Ahmedabad,Ekiya Palan,48882,2,Online,6169.2774888585145,17154.410734493948,25558.311776647537,Pending,Credit Card,Search Engine
+2024-05-20,Vikram,Smartwatch,Jaipur,Bina Kant,13792,2,Retail,2432.3619861962793,4719.58158290656,6640.056430897162,Completed,UPI,Social Media
+2024-07-24,Vikram,Tablet,Pune,Suhani Patil,31553,1,Online,4543.5622751304245,8009.086145961745,19000.35157890783,Cancelled,Debit Card,Advertisement
+2024-06-26,Amit,Laptop,Mumbai,Chakrika Ramesh,61656,1,Retail,3884.0,18043.37171227565,39728.62828772435,Returned,UPI,Search Engine
+2024-04-10,Anjali,Laptop,Ahmedabad,Pavani Nair,98369,1,Retail,22801.551945681822,12732.4479806319,62835.00007368628,Completed,Net Banking,Search Engine
+2024-07-17,Priya,Bluetooth Speaker,Lucknow,Ayush Sen,8710,5,Online,2262.0,3065.962320250841,3382.037679749159,Completed,UPI,Advertisement
+2024-07-17,Amit,Bluetooth Speaker,Ahmedabad,Dhriti Babu,3909,2,Retail,3055.0,-814.3608887261057,1668.3608887261057,Cancelled,Net Banking,Email
+2024-02-21,Neha,Refrigerator,Mumbai,Anthony Bandi,21494,2,Retail,4522.703161452892,5127.743058843381,11843.553779703727,Pending,Cash on Delivery (COD),Email
+2024-09-02,Ravi,Refrigerator,Jaipur,Pavani Nair,23943,1,Retail,3973.069362785508,5162.637497950259,14807.293139264233,Completed,Net Banking,Email
+2024-04-27,Karan,Smartwatch,Ahmedabad,Harrison Shere,6089,2,Online,2169.0,1178.1872290656547,2741.8127709343453,Shipped,Net Banking,Search Engine
+2024-08-14,Vikram,Smartphone,Delhi,Gayathri Dugar,63386,3,Online,1556.0,26699.65106732111,35130.34893267889,Completed,Debit Card,Referral
+2024-12-08,Neha,Camera,Jaipur,Jackson Sura,94437,1,Retail,11489.169609110277,22923.85288709833,60023.97750379139,Completed,Cash on Delivery (COD),Advertisement
+2024-07-10,Sushma,Tablet,Kolkata,Nidhi Bera,16414,1,Retail,2790.0,2972.968353415825,10651.031646584175,Pending,Net Banking,Advertisement
+2024-05-25,Karan,Tablet,Chennai,Bhavna Nath,44614,1,Online,2120.0,17725.97820649622,24768.02179350378,Cancelled,Credit Card,Email
+2025-01-03,Manoj,Tablet,Jaipur,Anthony Bandi,45350,2,Retail,4196.0,11720.690310276921,29433.30968972308,Returned,Credit Card,Advertisement
+2024-09-24,Neha,Laptop,Bangalore,Jairaj Nagy,72497,2,Retail,13942.678248845405,8028.8566495502455,50525.46510160435,Cancelled,Cash on Delivery (COD),Advertisement
+2024-03-03,Neha,Bluetooth Speaker,Mumbai,Brijesh Bandi,6474,4,Online,3243.0,228.39660316620575,3002.6033968337942,Completed,Credit Card,Advertisement
+2024-09-25,Karan,Bluetooth Speaker,Delhi,Gunbir Raman,4522,4,Retail,284.3555854257308,1752.625052919939,2485.01936165433,Completed,Debit Card,Referral
+2024-07-16,Vikram,Refrigerator,Jaipur,Avi Sen,48430,1,Retail,8494.065245467746,8793.581804078656,31142.352950453598,Shipped,Cash on Delivery (COD),Advertisement
+2024-07-23,Ravi,Washing Machine,Kolkata,Ekiya Palan,33208,1,Online,3853.0,11628.770751481625,17726.229248518375,Pending,Net Banking,Advertisement
+2024-10-21,Sushma,Smartphone,Hyderabad,Yagnesh Rajagopalan,41435,3,Retail,1735.0,16064.592669333459,23635.40733066654,Shipped,UPI,Referral
+2024-06-04,Manoj,Refrigerator,Kolkata,Saumya Ratti,59682,2,Online,9310.403252278144,12437.419406320869,37934.17734140099,Pending,UPI,Search Engine
+2024-05-03,Priya,Washing Machine,Lucknow,Samuel Bedi,28911,1,Online,2187.6870499557367,13183.696764413964,13539.616185630299,Pending,Debit Card,Direct Visit
+2024-12-21,Anjali,Air Conditioner,Lucknow,Krish Lala,56490,1,Online,4246.479585600621,22188.742466055828,30054.77794834355,Shipped,Net Banking,Advertisement
+2024-08-04,Vikram,Headphones,Delhi,Fitan Hans,3676,2,Retail,721.0,854.9876508018592,2100.012349198141,Shipped,UPI,Social Media
+2024-11-08,Anjali,Air Conditioner,Hyderabad,Girik Kamdar,35640,1,Online,4013.5446248107082,9755.826913198638,21870.628461990655,Shipped,Debit Card,Direct Visit
+2024-12-30,Amit,Bluetooth Speaker,Mumbai,Netra Kashyap,5805,3,Retail,766.1101605704939,2901.6582670244447,2137.2315724050613,Pending,Credit Card,Referral
+2024-05-09,Priya,Smartphone,Hyderabad,Bhanumati Arya,39091,2,Retail,6318.119485505794,10736.35999252083,22036.520521973376,Completed,UPI,Referral
+2024-06-17,Neha,Smartphone,Jaipur,Hema Varughese,29054,1,Retail,1526.0,8966.626558567092,18561.37344143291,Shipped,Cash on Delivery (COD),Social Media
+2024-06-09,Rajesh,Tablet,Ahmedabad,Gunbir Raman,23550,1,Retail,1706.4258556637665,9019.20246904764,12824.371675288594,Pending,Cash on Delivery (COD),Search Engine
+2024-10-07,Manoj,Smartphone,Chennai,Bakhshi Subramanian,43670,4,Online,4228.0,12446.48327077894,26995.51672922106,Cancelled,Credit Card,Email
+2024-02-19,Rajesh,Tablet,Chennai,Ekapad Wason,26848,2,Retail,1199.0,8464.555387094988,17184.444612905012,Returned,UPI,Advertisement
+2024-08-02,Ravi,Camera,Pune,Lajita Balasubramanian,31415,2,Retail,1578.0,9079.238742897938,20757.76125710206,Returned,UPI,Social Media
+2024-03-18,Amit,Air Conditioner,Delhi,Vedika Chacko,53617,1,Online,8722.305526212263,17792.897093062144,27101.797380725595,Pending,Net Banking,Email
+2024-08-12,Karan,Air Conditioner,Hyderabad,Ekapad Wason,67491,1,Retail,4206.0,28958.403603261148,34326.59639673885,Returned,UPI,Email
+2024-05-12,Manoj,Camera,Kolkata,Sanaya Purohit,96263,1,Retail,486.0,40242.30014363119,55534.69985636881,Pending,Net Banking,Referral
+2024-10-12,Anjali,Air Conditioner,Bangalore,Ekiya Palan,56093,2,Retail,9452.47794282415,17164.58976680082,29475.932290375033,Shipped,Credit Card,Social Media
+2024-09-18,Neha,Laptop,Hyderabad,Krishna Sood,108779,1,Online,4725.0,36533.79430196875,67520.20569803125,Pending,Cash on Delivery (COD),Direct Visit
+2024-09-28,Anjali,Refrigerator,Ahmedabad,Nidra Varughese,71971,1,Online,2781.0,24033.46852011523,45156.53147988477,Shipped,Net Banking,Advertisement
+2024-08-22,Karan,Headphones,Chennai,Zansi Shankar,5270,5,Retail,902.0,1693.686904978832,2674.313095021168,Returned,Net Banking,Advertisement
+2024-12-10,Neha,Laptop,Hyderabad,Zansi Shankar,147774,1,Online,3162.0,36551.294968520684,108060.70503147932,Returned,Net Banking,Search Engine
+2024-06-20,Priya,Refrigerator,Lucknow,Pavani Nair,52521,1,Retail,10836.177268287185,9428.423102963785,32256.39962874903,Returned,Debit Card,Social Media
+2024-12-29,Vikram,Smartphone,Bangalore,Jairaj Nagy,59447,2,Online,4802.0,16405.16588390887,38239.83411609113,Pending,Debit Card,Direct Visit
+2024-08-05,Neha,Air Conditioner,Bangalore,Jairaj Sankaran,60299,2,Online,11335.390868071203,15448.343543735306,33515.26558819349,Shipped,UPI,Direct Visit
+2024-08-10,Sushma,Headphones,Bangalore,Udant Saha,2793,5,Online,665.4578186992683,634.4259713529693,1493.1162099477624,Returned,Cash on Delivery (COD),Email
+2024-12-27,Manoj,Bluetooth Speaker,Hyderabad,Bhanumati Arya,5658,2,Online,978.0,2424.714134970401,2255.285865029599,Cancelled,Debit Card,Referral
+2024-10-27,Neha,Laptop,Jaipur,Kalpit Sarkar,80119,2,Online,4110.0,18943.14121124646,57065.85878875354,Returned,Net Banking,Social Media
+2024-05-13,Priya,Camera,Mumbai,Anita Bhalla,72611,1,Retail,1375.0,33888.322190596366,37347.677809403634,Shipped,Credit Card,Direct Visit
+2024-11-04,Priya,Washing Machine,Hyderabad,Niharika Sachdeva,39279,2,Online,7252.6213694401,14250.685049034048,17775.69358152585,Pending,UPI,Referral
+2024-10-10,Karan,Smartwatch,Delhi,Bakhshi Subramanian,4563,2,Retail,801.1260102785832,1097.4740597475957,2664.399929973821,Cancelled,Debit Card,Search Engine
+2024-08-06,Priya,Refrigerator,Kolkata,Zaid Tak,69247,1,Online,16391.47384613687,8397.435445461902,44458.09070840123,Shipped,Cash on Delivery (COD),Search Engine
+2024-10-12,Priya,Smartphone,Mumbai,Akshay Ghosh,46530,1,Online,4305.0,15851.134470170047,26373.865529829953,Completed,UPI,Referral
+2024-03-17,Amit,Camera,Jaipur,Dalbir Karan,76215,2,Online,7746.510593159013,19384.817981959714,49083.67142488127,Shipped,UPI,Social Media
+2024-12-05,Amit,Smartwatch,Bangalore,Ekavir Warrior,13472,1,Retail,1964.6137406316066,3836.4457568989446,7670.940502469449,Shipped,Credit Card,Social Media
+2024-06-17,Amit,Headphones,Jaipur,Sanaya Purohit,7740,5,Online,1526.0,2782.3392405176346,3431.6607594823654,Completed,Net Banking,Email
+2025-01-04,Amit,Air Conditioner,Chennai,Chandresh Wason,46924,1,Retail,10986.316102062712,9354.437674863315,26583.246223073973,Returned,Credit Card,Advertisement
+2024-02-01,Rajesh,Air Conditioner,Delhi,Kalpit Sarkar,34698,2,Retail,2220.0,12866.887565357261,19611.11243464274,Completed,Debit Card,Search Engine
+2024-12-08,Karan,Washing Machine,Chennai,Chanakya Mannan,47590,2,Online,3171.9851930314926,19698.724572317537,24719.29023465097,Cancelled,Debit Card,Advertisement
+2024-05-23,Vikram,Tablet,Chennai,Anthony Bandi,6549,1,Online,4966.0,-1808.3678739443667,3391.3678739443667,Returned,Debit Card,Referral
+2024-03-31,Neha,Washing Machine,Hyderabad,Chaitanya Sachar,59876,2,Retail,1895.0,30807.637102376117,27173.362897623883,Returned,Debit Card,Email
+2024-03-21,Sushma,Camera,Kolkata,Chaitanya Sachar,38464,1,Retail,5176.021713727048,13364.050987116974,19923.927299155977,Completed,Debit Card,Social Media
+2024-10-12,Sushma,Laptop,Lucknow,Orinder Anand,80430,1,Online,15442.614362400715,4689.396021922143,60297.98961567714,Completed,UPI,Email
+2024-07-02,Manoj,Headphones,Chennai,Yash Babu,5485,2,Retail,4428.0,-1959.8971892588256,3016.8971892588256,Completed,UPI,Referral
+2024-07-30,Amit,Headphones,Bangalore,Ekapad Wason,6136,4,Online,2528.0,1018.7635456213602,2589.23645437864,Returned,Debit Card,Email
+2024-09-22,Amit,Headphones,Delhi,Wridesh Dora,5255,3,Online,989.5736567688298,1616.3380464170802,2649.08829681409,Returned,Net Banking,Referral
+2024-03-22,Priya,Bluetooth Speaker,Chennai,Fitan Hans,1184,3,Online,1852.0,-1241.2677989704293,573.2677989704295,Shipped,Debit Card,Email
+2024-10-21,Rajesh,Smartphone,Lucknow,Falan Mital,64611,2,Retail,12053.200409133686,12907.61499748251,39650.184593383805,Cancelled,UPI,Social Media
+2024-08-03,Amit,Laptop,Hyderabad,Ryan Konda,113548,1,Retail,2368.0,29591.7997447541,81588.2002552459,Pending,UPI,Email
+2024-09-25,Manoj,Air Conditioner,Pune,Ubika Kari,63687,2,Online,6662.73042389972,16413.921797771025,40610.347778329255,Pending,Debit Card,Social Media
+2024-11-15,Sushma,Headphones,Lucknow,Samar Bakshi,6399,5,Retail,435.16303833998796,3015.2109623825327,2948.6259992774794,Cancelled,UPI,Search Engine
+2024-11-09,Manoj,Air Conditioner,Delhi,Vedika Chacko,26569,2,Retail,3176.0,6416.7534269424905,16976.24657305751,Returned,Credit Card,Referral
+2024-09-21,Amit,Washing Machine,Hyderabad,Girik Kamdar,19722,2,Retail,1537.0,6510.120084912003,11674.879915087997,Cancelled,Credit Card,Email
+2024-12-27,Neha,Tablet,Chennai,Gayathri Shetty,10277,2,Online,627.0,3732.3976113452127,5917.602388654787,Pending,Cash on Delivery (COD),Social Media
+2024-09-23,Amit,Washing Machine,Bangalore,Saumya Ratti,46616,1,Online,11153.05417120261,7634.530615966651,27828.41521283074,Completed,Net Banking,Search Engine
+2024-03-10,Vikram,Washing Machine,Lucknow,Garima Dhillon,52221,2,Retail,644.0,21841.30114321667,29735.69885678333,Returned,Net Banking,Search Engine
+2024-10-28,Anjali,Refrigerator,Jaipur,Omisha Gera,62780,1,Retail,2509.0,27741.70489688612,32529.29510311388,Returned,Net Banking,Social Media
+2024-02-08,Karan,Camera,Pune,Bakhshi Subramanian,88115,1,Online,10667.819415285485,18105.869851402313,59341.3107333122,Cancelled,Credit Card,Direct Visit
+2024-04-06,Priya,Bluetooth Speaker,Chennai,Zaid Tak,6252,3,Retail,432.8919106411827,2793.204813880571,3025.9032754782465,Returned,Net Banking,Direct Visit
+2024-07-02,Amit,Smartwatch,Hyderabad,Michael Khurana,23470,2,Online,2860.8098928821155,9029.960329913363,11579.22977720452,Shipped,Credit Card,Social Media
+2024-08-07,Priya,Tablet,Jaipur,Nikita Bera,37883,2,Retail,2533.0,15252.516509075875,20097.483490924125,Pending,Net Banking,Direct Visit
+2024-07-21,Sushma,Bluetooth Speaker,Lucknow,Ayush Sen,9616,1,Online,904.9181852409266,3548.6302882140144,5162.451526545059,Returned,Debit Card,Search Engine
+2024-11-04,Karan,Smartphone,Pune,Charvi Dasgupta,33175,4,Online,6224.7596952387685,8397.011637724325,18553.228667036907,Cancelled,UPI,Search Engine
+2024-11-13,Manoj,Washing Machine,Lucknow,Chaman Atwal,37576,1,Online,7765.547670315588,11757.211943656406,18053.240386028006,Pending,UPI,Social Media
+2024-10-11,Vikram,Laptop,Bangalore,Neelima Sagar,71538,2,Online,1859.0,25935.45626871512,43743.54373128488,Returned,Cash on Delivery (COD),Direct Visit
+2024-03-11,Anjali,Bluetooth Speaker,Kolkata,Ubika Khatri,8330,3,Online,968.8330290789211,4264.672965335536,3096.494005585543,Returned,Cash on Delivery (COD),Social Media
+2024-02-09,Manoj,Headphones,Chennai,Jairaj Nagy,8866,4,Online,3201.0,1170.519064504716,4494.480935495284,Completed,Cash on Delivery (COD),Direct Visit
+2024-07-07,Priya,Tablet,Chennai,Triya Mohanty,21883,2,Online,2283.0,8199.686997812876,11400.313002187124,Returned,UPI,Email
+2024-06-29,Rajesh,Smartphone,Ahmedabad,Vedhika Ram,55509,2,Online,2950.0,15527.499399996908,37031.50060000309,Cancelled,Debit Card,Search Engine
+2024-03-20,Ravi,Washing Machine,Jaipur,Bakhshi Subramanian,55541,1,Online,5267.506260128443,22707.96810253765,27565.525637333907,Shipped,Cash on Delivery (COD),Direct Visit
+2025-01-12,Vikram,Headphones,Delhi,Lajita Balasubramanian,1613,5,Retail,582.0,187.64160776648737,843.3583922335126,Cancelled,Credit Card,Social Media
+2024-09-03,Manoj,Tablet,Hyderabad,Dalbir Karan,44401,2,Online,8328.99336420684,13689.93049079741,22382.07614499575,Cancelled,UPI,Advertisement
+2024-04-01,Anjali,Smartwatch,Ahmedabad,Arjun Sama,15719,2,Online,4139.0,3093.7731093119655,8486.226890688034,Cancelled,Debit Card,Search Engine
+2024-04-23,Ravi,Headphones,Delhi,Advika Vyas,7478,4,Online,681.2477213395377,3356.350423712996,3440.4018549474663,Returned,UPI,Social Media
+2024-11-03,Amit,Smartwatch,Lucknow,Lajita Balasubramanian,3021,2,Online,2297.0,-656.9991371759531,1380.9991371759531,Returned,Credit Card,Social Media
+2024-12-09,Manoj,Smartwatch,Chennai,Bakhshi Subramanian,10510,1,Retail,4198.0,1531.5285590217054,4780.471440978295,Completed,UPI,Direct Visit
+2024-03-11,Anjali,Tablet,Chennai,Zaid Tak,34164,2,Retail,2644.0,10921.246618561072,20598.753381438928,Returned,UPI,Referral
+2024-10-14,Sushma,Smartwatch,Lucknow,Sneha Singhal,5556,2,Online,362.18582829523615,2007.175619992835,3186.638551711929,Completed,Debit Card,Social Media
+2024-03-08,Ravi,Washing Machine,Chennai,Manan Gopal,35104,1,Online,443.0,13811.409311709624,20849.590688290376,Returned,Credit Card,Search Engine
+2024-12-13,Karan,Laptop,Ahmedabad,Yadavi Bakshi,98330,2,Online,8357.840942345088,28139.850984789147,61832.308072865766,Completed,Debit Card,Advertisement
+2024-05-16,Sushma,Laptop,Pune,Jalsa Kunda,74199,2,Retail,2662.0,22159.18416049405,49377.81583950595,Shipped,Debit Card,Social Media
+2024-02-01,Priya,Smartphone,Delhi,Shaurya Nigam,67462,1,Retail,7383.112441981854,13201.225103052016,46877.66245496613,Returned,Credit Card,Social Media
+2024-10-13,Sushma,Camera,Jaipur,Vedika Chacko,64928,1,Retail,3865.828510234017,26643.040677615485,34419.1308121505,Completed,Net Banking,Search Engine
+2024-11-13,Anjali,Headphones,Mumbai,Harrison Shere,5283,5,Retail,1437.0,956.0699062088597,2889.9300937911403,Returned,Debit Card,Referral
+2024-04-19,Sushma,Refrigerator,Jaipur,Krishna Sood,42053,2,Retail,4956.0,12134.02745552871,24962.97254447129,Returned,Cash on Delivery (COD),Advertisement
+2024-05-31,Vikram,Smartwatch,Delhi,Krishna Sood,21171,1,Online,4870.0,5309.209646334351,10991.790353665649,Pending,Credit Card,Search Engine
+2024-08-02,Amit,Refrigerator,Chennai,Sanaya Purohit,64176,2,Retail,937.0,26674.958676769085,36564.041323230915,Completed,Debit Card,Email
+2024-03-07,Neha,Air Conditioner,Chennai,Vedika Chacko,68098,2,Online,4511.0,25766.892195087778,37820.10780491222,Completed,Net Banking,Social Media
+2024-03-23,Manoj,Camera,Mumbai,Triya Mohanty,58931,2,Online,3749.0,15734.552711925913,39447.44728807409,Completed,Cash on Delivery (COD),Social Media
+2024-05-21,Sushma,Tablet,Lucknow,Ubika Kari,33903,2,Online,2393.0,9639.066075534338,21870.933924465662,Returned,Cash on Delivery (COD),Social Media
+2024-05-14,Vikram,Laptop,Pune,Anita Bhalla,98450,1,Retail,22089.820831214107,11268.822329961666,65091.35683882423,Cancelled,Debit Card,Email
+2024-10-10,Ravi,Washing Machine,Ahmedabad,Michael Khurana,25819,1,Online,1454.8942590176907,10776.931966166783,13587.173774815526,Returned,Debit Card,Referral
+2024-02-14,Manoj,Air Conditioner,Chennai,Suhani Patil,38665,2,Retail,3151.0,13898.32628455523,21615.67371544477,Shipped,Net Banking,Referral
+2024-03-09,Anjali,Tablet,Kolkata,Krishna Sood,57003,1,Retail,857.0,25531.317427947062,30614.682572052938,Returned,Net Banking,Advertisement
+2024-09-12,Ravi,Camera,Mumbai,Dev Varkey,58808,2,Online,1160.0,23349.11464930421,34298.88535069579,Completed,Net Banking,Referral
+2024-04-30,Rajesh,Headphones,Delhi,Pavani Nair,5661,4,Online,2576.0,688.0035684375066,2396.9964315624934,Shipped,Net Banking,Social Media
+2024-04-06,Neha,Smartphone,Delhi,Jalsa Kunda,55815,3,Online,3520.0,13438.64042408482,38856.35957591518,Cancelled,Net Banking,Advertisement
+2024-01-27,Vikram,Refrigerator,Lucknow,Tejas Sachdeva,28695,1,Retail,4331.111756421375,8472.53095149992,15891.357292078705,Cancelled,Debit Card,Email
+2024-01-29,Ravi,Refrigerator,Chennai,Anthony Bandi,25451,2,Retail,897.0,10617.23717260503,13936.76282739497,Completed,Credit Card,Social Media
+2024-01-26,Vikram,Headphones,Lucknow,Ubika Kari,7150,4,Online,1459.8435425920445,2321.8678069612697,3368.2886504466856,Returned,UPI,Direct Visit
+2024-08-28,Priya,Smartwatch,Lucknow,Yoshita Misra,19875,1,Online,4392.613475995912,4112.82803536785,11369.558488636238,Returned,Cash on Delivery (COD),Referral
+2024-02-19,Ravi,Laptop,Kolkata,Samesh Bawa,59859,2,Online,1943.0,17715.81716397561,40200.18283602439,Pending,Net Banking,Email
+2024-02-12,Manoj,Washing Machine,Mumbai,Netra Kashyap,24786,2,Online,3762.0,9402.476443683769,11621.523556316231,Returned,UPI,Email
+2024-10-12,Karan,Camera,Chennai,Vanya Jaggi,36597,2,Retail,2856.0,8464.51403794804,25276.48596205196,Shipped,Debit Card,Social Media
+2024-09-12,Vikram,Refrigerator,Jaipur,Akshay Ghosh,61077,2,Online,6754.053713828936,19352.90688019972,34970.03940597134,Cancelled,Credit Card,Email
+2024-04-04,Anjali,Headphones,Chennai,Anita Balasubramanian,4753,2,Online,741.0223058914285,2048.7514373455,1963.2262567630714,Completed,UPI,Direct Visit
+2024-08-14,Ravi,Laptop,Kolkata,Chakrika Kadakia,132416,2,Online,7180.077492315962,39415.77788251423,85820.1446251698,Cancelled,Credit Card,Search Engine
+2024-09-01,Vikram,Smartphone,Jaipur,Vedika Chacko,16285,2,Retail,1503.479719174562,5260.422787932201,9521.097492893237,Shipped,Net Banking,Email
+2024-07-05,Vikram,Washing Machine,Jaipur,Netra Kashyap,50617,1,Retail,1263.0,24531.46392829678,24822.53607170322,Shipped,Debit Card,Social Media
+2024-07-28,Amit,Laptop,Jaipur,Rehaan Rajan,84762,1,Retail,3397.0,29286.401830276576,52078.598169723424,Completed,Cash on Delivery (COD),Email
+2024-10-23,Karan,Headphones,Delhi,Ubika Kari,7847,4,Retail,2717.0,1277.5830304646947,3852.4169695353053,Shipped,Credit Card,Referral
+2024-05-18,Neha,Headphones,Jaipur,Balhaar Nadig,2247,4,Online,177.32330798490176,849.4639691466489,1220.2127228684494,Cancelled,Cash on Delivery (COD),Referral
+2024-07-05,Anjali,Refrigerator,Bangalore,Nidhi Bera,70631,1,Online,4343.0,22400.461341665752,43887.53865833425,Shipped,Net Banking,Referral
+2024-10-09,Amit,Refrigerator,Kolkata,Netra Kashyap,31000,2,Retail,7379.008044021761,5829.554836833555,17791.437119144684,Pending,Credit Card,Advertisement
+2024-09-06,Ravi,Air Conditioner,Chennai,Advika Vyas,28568,1,Online,4511.376342274759,8685.9721499298,15370.651507795443,Completed,Cash on Delivery (COD),Search Engine
+2024-03-30,Manoj,Washing Machine,Chennai,Anthony Bandi,45557,1,Online,3705.0,18748.12342396798,23103.87657603202,Cancelled,Net Banking,Advertisement
+2024-07-16,Sushma,Headphones,Bangalore,Tejas Sachdeva,9867,2,Retail,1799.755611271707,2947.1505578789033,5120.09383084939,Returned,UPI,Direct Visit
+2024-07-02,Sushma,Smartphone,Ahmedabad,Jairaj Sankaran,36524,2,Retail,5367.125724429762,6114.942639354454,25041.931636215784,Cancelled,Debit Card,Email
+2024-10-02,Rajesh,Laptop,Jaipur,Balhaar Nadig,128597,1,Online,9919.293016495429,34780.06726935222,83897.63971415235,Pending,Credit Card,Search Engine
+2024-04-25,Rajesh,Tablet,Ahmedabad,Gunbir Raman,40617,1,Online,1567.0,13290.718127443663,25759.281872556337,Completed,Debit Card,Referral
+2024-05-08,Priya,Bluetooth Speaker,Jaipur,Chaitanya Sachar,1834,5,Online,252.67606538996876,876.1865101574165,705.1374244526148,Shipped,Net Banking,Search Engine
+2024-02-12,Priya,Smartwatch,Mumbai,Akshay Ghosh,16931,2,Retail,1951.0,5950.818535457458,9029.181464542542,Shipped,Cash on Delivery (COD),Email
+2024-08-14,Vikram,Smartwatch,Ahmedabad,Vanya Jaggi,13178,2,Online,1312.0902689282182,4756.805836461659,7109.103894610123,Cancelled,Cash on Delivery (COD),Advertisement
+2024-02-25,Neha,Headphones,Kolkata,Ubika Kari,8404,2,Retail,1589.0923762743305,2177.279774437804,4637.6278492878655,Pending,Debit Card,Advertisement
+2024-09-30,Karan,Smartphone,Ahmedabad,Chanakya Mannan,54270,2,Retail,10039.321648597677,10586.686471001249,33643.991880401074,Shipped,Credit Card,Email
+2024-03-20,Karan,Camera,Jaipur,Lopa Vala,26099,2,Online,5608.10543671609,5091.320994511651,15399.573568772259,Cancelled,Credit Card,Search Engine
+2024-02-22,Vikram,Washing Machine,Delhi,Kalpit Sarkar,32608,2,Online,3094.6033064114354,13404.145935784043,16109.250757804522,Cancelled,Net Banking,Search Engine
+2024-01-30,Neha,Laptop,Bangalore,Sneha Singhal,122183,1,Retail,2456.0,28373.87220341366,91353.12779658634,Shipped,UPI,Direct Visit
+2024-08-29,Neha,Headphones,Pune,Jalsa Kunda,5267,1,Online,4691.0,-1644.751591676324,2220.751591676324,Pending,Debit Card,Referral
+2024-10-05,Anjali,Smartphone,Chennai,Yagnesh Rajagopalan,28701,1,Retail,3984.3096191141176,4867.7748507757915,19848.91553011009,Pending,Net Banking,Social Media
+2024-11-18,Sushma,Air Conditioner,Mumbai,Anmol Rai,35732,2,Online,2057.0,11427.728570675845,22247.271429324155,Returned,Credit Card,Email
+2024-05-23,Vikram,Tablet,Lucknow,Krish Lala,38680,2,Online,9002.675492048165,5075.626949275997,24601.697558675838,Shipped,Cash on Delivery (COD),Advertisement
+2024-05-04,Neha,Smartwatch,Hyderabad,Gayathri Shetty,12240,2,Retail,2326.0,2897.9343282184427,7016.065671781557,Cancelled,Debit Card,Direct Visit
+2024-12-20,Ravi,Washing Machine,Kolkata,Bhanumati Arya,56674,1,Retail,6233.116613195908,16974.049067643315,33466.83431916078,Returned,Credit Card,Advertisement
+2024-02-05,Karan,Washing Machine,Chennai,Gaurika Vohra,34309,1,Online,683.0,15171.449604688663,18454.550395311337,Returned,Credit Card,Search Engine
+2024-09-16,Neha,Camera,Chennai,Yagnesh Rajagopalan,28873,1,Online,5094.321831169375,9152.5115392685,14626.166629562123,Cancelled,UPI,Search Engine
+2024-12-28,Anjali,Headphones,Lucknow,Saumya Ratti,4079,3,Online,4988.0,-3066.9053277780667,2157.9053277780667,Cancelled,Debit Card,Advertisement
+2024-08-05,Karan,Refrigerator,Lucknow,Pavani Nair,32733,2,Retail,7342.619697450055,5657.961377606564,19732.41892494338,Returned,Net Banking,Direct Visit
+2024-12-21,Amit,Smartwatch,Lucknow,Nidra Varughese,18523,2,Online,984.0,7859.686158156452,9679.313841843548,Completed,Credit Card,Social Media
+2024-04-19,Anjali,Smartwatch,Delhi,Tejas Sachdeva,20787,1,Online,3517.1345651547117,7573.417384406485,9696.448050438803,Completed,UPI,Search Engine
+2024-07-05,Rajesh,Smartwatch,Kolkata,Dalbir Karan,4504,1,Retail,1464.0,540.2898969506878,2499.7101030493122,Completed,Debit Card,Referral
+2024-08-13,Priya,Smartwatch,Mumbai,Vamakshi Ratta,7364,1,Retail,1893.0,1529.898551857752,3941.101448142248,Returned,Debit Card,Email
+2024-07-31,Anjali,Air Conditioner,Mumbai,Triya Mohanty,44389,1,Retail,2594.0,16448.824251323178,25346.175748676822,Shipped,Credit Card,Email
+2024-05-23,Priya,Headphones,Jaipur,Lopa Vala,5740,3,Retail,828.8462474248946,2228.7023686777065,2682.451383897399,Pending,Net Banking,Referral
+2024-01-27,Manoj,Tablet,Pune,Samar Bakshi,50707,1,Online,9956.083524095955,13299.951094041693,27450.965381862352,Completed,Debit Card,Referral
+2024-02-08,Karan,Tablet,Pune,Niharika Sachdeva,39608,1,Retail,4745.0,9796.513632689388,25066.486367310612,Cancelled,Debit Card,Search Engine
+2024-06-26,Ravi,Camera,Delhi,Kalpit Sarkar,83709,2,Online,1117.0,37609.525515798596,44982.474484201404,Pending,Net Banking,Referral
+2024-11-04,Karan,Camera,Bangalore,Ubika Khatri,82779,2,Online,3903.0,29641.239269094483,49234.76073090552,Completed,Debit Card,Email
+2024-10-25,Ravi,Air Conditioner,Delhi,Garima Dhillon,64759,1,Online,5713.8322741433385,24462.419856834545,34582.74786902212,Completed,Net Banking,Advertisement
+2024-03-21,Manoj,Washing Machine,Kolkata,Dalbir Karan,41561,1,Online,7288.175824845342,12179.201911242573,22093.622263912086,Returned,Cash on Delivery (COD),Referral
+2024-05-11,Neha,Laptop,Kolkata,Kavya Bhat,149810,2,Retail,30943.20302077565,12545.320425580048,106321.4765536443,Completed,Debit Card,Direct Visit
+2025-01-09,Karan,Washing Machine,Hyderabad,Netra Kashyap,25468,1,Online,4062.0,8638.46946232355,12767.53053767645,Pending,Cash on Delivery (COD),Email
+2024-08-18,Vikram,Tablet,Ahmedabad,Suhani Patil,28463,1,Retail,1250.0,10869.429750215917,16343.570249784083,Returned,Net Banking,Social Media
+2024-02-26,Rajesh,Washing Machine,Jaipur,Bahadurjit Sahni,31053,2,Online,2147.5805289420086,12295.787272501439,16609.632198556552,Shipped,UPI,Search Engine
+2024-07-17,Rajesh,Bluetooth Speaker,Bangalore,Kalpit Sarkar,2457,4,Retail,358.7482388722533,950.9693735520577,1147.282387575689,Shipped,Net Banking,Referral
+2024-08-15,Sushma,Refrigerator,Jaipur,Wridesh Dora,39814,1,Online,4585.0,13780.073885928836,21448.926114071164,Pending,UPI,Advertisement
+2025-01-02,Anjali,Laptop,Hyderabad,Avi Sen,82282,2,Retail,4634.0,26424.697724356018,51223.30227564398,Pending,Credit Card,Direct Visit
+2024-12-01,Sushma,Tablet,Jaipur,Chakrika Ramesh,52918,2,Retail,6692.710223187723,16094.645463685492,30130.644313126784,Pending,Debit Card,Search Engine
+2024-10-27,Anjali,Camera,Bangalore,Avi Sen,39892,1,Retail,3811.136187381468,11800.611447922674,24280.252364695858,Returned,Debit Card,Email
+2024-03-20,Vikram,Washing Machine,Bangalore,Michael Khurana,57701,1,Retail,2913.0,23207.97706446913,31580.02293553087,Shipped,UPI,Referral
+2024-10-23,Anjali,Smartphone,Bangalore,Lajita Balasubramanian,57154,5,Online,2737.0,20597.65696042504,33819.34303957496,Completed,Net Banking,Email
+2024-04-21,Amit,Washing Machine,Ahmedabad,Samuel Bedi,27582,1,Retail,2738.4418785234966,11948.129584648726,12895.428536827776,Shipped,Debit Card,Direct Visit
+2024-01-25,Neha,Headphones,Jaipur,Gayathri Dugar,5135,1,Retail,521.0306531686845,2467.7210710680674,2146.248275763248,Completed,Credit Card,Referral
+2024-05-27,Sushma,Washing Machine,Hyderabad,Jack Sura,46043,1,Online,2428.0,19080.228764322255,24534.771235677745,Cancelled,Cash on Delivery (COD),Advertisement
+2024-07-10,Karan,Headphones,Pune,Hema Varughese,5501,4,Online,3033.0,-91.9516823075146,2559.9516823075146,Shipped,Cash on Delivery (COD),Advertisement
+2024-07-31,Vikram,Headphones,Chennai,Dalbir Karan,7654,3,Online,1428.6121504073462,2161.4742063097265,4063.9136432829273,Cancelled,Credit Card,Email
+2024-07-18,Neha,Smartwatch,Pune,Vamakshi Ratta,8021,1,Online,2616.0,1134.2958595315267,4270.704140468473,Completed,UPI,Advertisement
+2024-11-02,Sushma,Tablet,Bangalore,Ekanta Gopal,31718,2,Retail,4112.0,10102.250694356098,17503.7493056439,Completed,Net Banking,Search Engine
+2024-06-19,Manoj,Headphones,Jaipur,Krish Lala,3603,3,Retail,309.8762497851989,1230.3176400310617,2062.8061101837393,Returned,UPI,Direct Visit
+2024-04-27,Neha,Smartwatch,Jaipur,Michael Khurana,7967,1,Retail,4888.0,-514.4905565328572,3593.4905565328568,Completed,Credit Card,Advertisement
+2024-03-28,Neha,Smartwatch,Delhi,Mohini Bail,22677,1,Retail,1453.6370322722908,10228.08024139717,10995.282726330539,Shipped,UPI,Search Engine
+2024-03-30,Manoj,Headphones,Hyderabad,Ubika Khatri,2716,3,Online,1266.0,163.67261225723337,1286.3273877427666,Returned,UPI,Referral
+2024-09-06,Karan,Bluetooth Speaker,Lucknow,Vedhika Ram,1438,3,Retail,4704.0,-3775.1491397984955,509.1491397984956,Completed,Net Banking,Direct Visit
+2024-05-16,Karan,Tablet,Bangalore,Anita Bhalla,24023,2,Online,5364.983202140984,6490.365401218069,12167.651396640947,Cancelled,Credit Card,Direct Visit
+2024-04-30,Amit,Laptop,Pune,Anthony Bandi,144853,1,Retail,1671.0,45360.650023328024,97821.34997667198,Returned,Cash on Delivery (COD),Social Media
+2024-04-26,Anjali,Laptop,Bangalore,Bahadurjit Sahni,115627,2,Online,18757.153359930973,25863.486595246042,71006.36004482298,Completed,Credit Card,Social Media
+2024-06-30,Ravi,Tablet,Chennai,Chaitanya Sachar,17773,1,Online,3380.711319333179,3273.9959774689887,11118.292703197832,Returned,Credit Card,Social Media
+2024-09-08,Karan,Smartwatch,Kolkata,Meghana Ravi,17968,1,Online,4262.0,4418.9621380556455,9287.037861944355,Cancelled,Net Banking,Direct Visit
+2025-01-12,Priya,Headphones,Lucknow,Advika Vyas,9618,5,Online,701.0,3859.534381556603,5057.465618443397,Pending,Debit Card,Advertisement
+2024-01-27,Manoj,Camera,Kolkata,Nidra Varughese,18921,2,Retail,1910.4450013120552,4318.104613346532,12692.450385341413,Completed,Credit Card,Direct Visit
+2024-07-10,Karan,Laptop,Jaipur,Nidra Varughese,114476,2,Online,6867.282707050414,22905.041118449648,84703.67617449994,Cancelled,Net Banking,Email
+2024-05-26,Manoj,Laptop,Pune,Andrew Desai,134447,2,Retail,1533.0,34501.789436956795,98412.2105630432,Completed,Debit Card,Social Media
+2024-05-01,Ravi,Smartwatch,Bangalore,Vedant Saran,21613,2,Online,1321.3802082093864,7362.611662320309,12929.008129470305,Pending,Net Banking,Search Engine
+2024-12-13,Manoj,Tablet,Mumbai,Kavya Bhat,30957,1,Retail,3390.492433439468,9805.734748505602,17760.77281805493,Cancelled,Debit Card,Advertisement
+2024-08-31,Karan,Laptop,Mumbai,Harrison Shere,111229,1,Online,8119.189678812383,27869.02363589921,75240.7866852884,Returned,Debit Card,Search Engine
+2024-09-23,Amit,Tablet,Hyderabad,Ubika Khatri,59445,1,Online,11812.568112646277,9226.954393653676,38405.47749370005,Returned,Debit Card,Referral
+2025-01-06,Amit,Bluetooth Speaker,Pune,Anmol Rai,5965,2,Online,1298.0,1804.7756598902515,2862.2243401097485,Returned,Net Banking,Direct Visit
+2024-08-23,Amit,Headphones,Hyderabad,Vedhika Ram,8042,1,Online,3224.0,924.4638088459014,3893.536191154098,Cancelled,Net Banking,Direct Visit
+2024-04-13,Neha,Tablet,Jaipur,Chaitanya Sachar,18548,1,Retail,3354.810273320672,4496.863740065068,10696.32598661426,Cancelled,Cash on Delivery (COD),Referral
+2024-05-03,Vikram,Laptop,Kolkata,Jack Sura,130627,2,Retail,23898.83213830838,9758.925986982347,96969.24187470927,Shipped,UPI,Social Media
+2024-07-08,Sushma,Smartwatch,Kolkata,Udant Saha,14695,2,Retail,2285.20793822603,3688.6418137724568,8721.150248001513,Returned,Credit Card,Direct Visit
+2024-10-27,Vikram,Smartphone,Mumbai,Hema Varughese,67715,4,Online,1703.0,21371.91031085881,44640.08968914119,Completed,Credit Card,Search Engine
+2024-01-22,Neha,Refrigerator,Pune,Anita Bhalla,48062,2,Online,1033.0,16341.816692052278,30687.183307947722,Completed,Cash on Delivery (COD),Referral
+2024-04-07,Amit,Laptop,Kolkata,Fitan Hans,125231,2,Retail,28363.207866447952,4270.831710986382,92596.96042256567,Completed,Credit Card,Social Media
+2024-03-27,Vikram,Smartphone,Ahmedabad,Nidra Varughese,19397,4,Retail,4513.0,2614.5763903093284,12269.423609690672,Shipped,Net Banking,Advertisement
+2024-07-10,Priya,Laptop,Jaipur,Gayathri Shetty,138791,2,Online,10126.24404650371,43715.48811814733,84949.26783534896,Returned,UPI,Advertisement
+2024-08-26,Sushma,Laptop,Bangalore,Brijesh Bandi,117110,2,Retail,23339.555162893645,13476.933201561384,80293.51163554497,Completed,Net Banking,Social Media
+2024-02-20,Manoj,Tablet,Pune,Akshay Ghosh,9964,2,Online,3762.0,23.891521890704098,6178.108478109296,Cancelled,Debit Card,Email
+2024-02-06,Anjali,Tablet,Kolkata,Bahadurjit Sahni,28114,2,Online,4405.0,8607.292468695718,15101.707531304282,Shipped,Cash on Delivery (COD),Email
+2024-03-09,Karan,Bluetooth Speaker,Mumbai,Tripti Dua,8822,5,Retail,1083.0,4048.975322943121,3690.0246770568788,Shipped,UPI,Email
+2024-03-27,Karan,Washing Machine,Ahmedabad,Bakhshi Subramanian,52777,1,Online,4356.0,23016.73534731907,25404.26465268093,Shipped,Credit Card,Social Media
+2024-06-22,Karan,Smartwatch,Delhi,Anthony Bandi,10223,2,Retail,1505.8951115346244,2637.1922254070078,6079.912663058368,Returned,UPI,Advertisement
+2024-06-24,Rajesh,Laptop,Mumbai,Jairaj Sankaran,61459,2,Online,3592.0,17382.537188408685,40484.462811591315,Returned,Cash on Delivery (COD),Advertisement
+2024-06-21,Karan,Smartphone,Jaipur,Anita Balasubramanian,41073,1,Online,1419.0,14181.126384781594,25472.873615218406,Returned,Net Banking,Advertisement
+2024-12-03,Rajesh,Camera,Hyderabad,Ekapad Wason,49975,1,Retail,2621.0,16448.801795828298,30905.198204171702,Cancelled,UPI,Social Media
+2024-07-23,Manoj,Smartphone,Pune,Yash Babu,21333,5,Online,1752.06066812358,5122.805358974658,14458.133972901762,Shipped,Net Banking,Advertisement
+2024-12-17,Ravi,Tablet,Kolkata,Michael Khurana,10661,2,Retail,1010.2489253489649,3954.4735254577536,5696.277549193282,Pending,Cash on Delivery (COD),Advertisement
+2024-06-21,Anjali,Washing Machine,Delhi,Meghana Ravi,23519,1,Retail,1413.0,10417.293694335807,11688.706305664193,Returned,Debit Card,Social Media
+2024-09-16,Neha,Refrigerator,Hyderabad,Vedhika Ram,60120,2,Retail,3928.0,24820.998543073587,31371.001456926413,Cancelled,Net Banking,Social Media
+2024-08-07,Vikram,Laptop,Delhi,Avi Sen,85420,1,Online,3994.0,22131.212838352352,59294.78716164765,Shipped,UPI,Search Engine
+2024-01-20,Rajesh,Smartwatch,Chennai,Alka Gupta,7395,2,Online,966.2973574062031,2658.7016602860904,3770.0009823077066,Returned,Net Banking,Referral
+2024-09-09,Vikram,Headphones,Jaipur,Gayathri Dugar,1181,1,Online,3726.0,-3070.767749290598,525.7677492905983,Shipped,Net Banking,Social Media
+2024-12-15,Amit,Smartphone,Jaipur,Bina Kant,33335,1,Online,8241.906744255903,3801.457929779197,21291.6353259649,Cancelled,UPI,Referral
+2024-03-18,Neha,Camera,Ahmedabad,Yash Babu,51907,1,Retail,6909.118193760854,11771.853726911499,33226.02807932765,Shipped,Net Banking,Email
+2024-11-30,Priya,Air Conditioner,Pune,Yagnesh Rajagopalan,40919,1,Retail,2500.742498946552,14482.449631069836,23935.80786998361,Cancelled,Credit Card,Social Media
+2024-09-24,Rajesh,Smartwatch,Ahmedabad,Tejas Sachdeva,24511,1,Retail,2308.0,10568.941772118438,11634.058227881562,Shipped,Net Banking,Advertisement
+2024-10-03,Manoj,Camera,Jaipur,Manan Gopal,99444,1,Retail,3009.0,32588.364604826827,63846.63539517317,Shipped,Cash on Delivery (COD),Search Engine
+2024-06-17,Ravi,Tablet,Mumbai,Girik Kamdar,35993,2,Online,2729.0,10935.93216423189,22328.06783576811,Shipped,Net Banking,Search Engine
+2024-04-07,Priya,Laptop,Bangalore,Samar Bakshi,90668,1,Retail,1113.0,31856.286859033164,57698.71314096684,Returned,Credit Card,Advertisement
+2024-04-03,Neha,Washing Machine,Lucknow,Ekiya Palan,15256,1,Retail,3111.8859551198257,3192.2590681436304,8951.854976736544,Returned,UPI,Email
+2024-06-20,Karan,Smartphone,Bangalore,Ekavir Warrior,54463,5,Retail,7195.436444714889,10244.091539629213,37023.4720156559,Shipped,Cash on Delivery (COD),Email
+2024-11-25,Sushma,Headphones,Delhi,Ikshita Narayanan,3780,2,Online,873.0,1309.3622946614064,1597.6377053385936,Shipped,Cash on Delivery (COD),Search Engine
+2025-01-05,Manoj,Air Conditioner,Jaipur,Shaurya Nigam,53575,2,Retail,12060.98635279673,14364.902909431943,27149.110737771327,Returned,Credit Card,Search Engine
+2024-11-19,Neha,Washing Machine,Hyderabad,Balhaar Nadig,19724,2,Online,1865.0,7211.840022539998,10647.159977460002,Cancelled,UPI,Social Media
+2024-11-08,Amit,Smartphone,Hyderabad,Yoshita Misra,18351,5,Online,2567.241899062799,3034.4094342821104,12749.34866665509,Pending,Net Banking,Direct Visit
+2024-11-10,Karan,Air Conditioner,Ahmedabad,Lopa Vala,61769,1,Retail,13484.807400044268,17351.161682531332,30933.0309174244,Shipped,Net Banking,Referral
+2024-07-08,Rajesh,Smartwatch,Delhi,Zaid Tak,24920,2,Online,4212.769078449125,5951.780112742149,14755.450808808726,Completed,Debit Card,Referral
+2024-02-14,Rajesh,Bluetooth Speaker,Chennai,Vedika Chacko,9336,3,Retail,1126.0,3684.8551180953227,4525.144881904677,Shipped,Cash on Delivery (COD),Social Media
+2024-04-20,Sushma,Washing Machine,Bangalore,Sanaya Purohit,25213,2,Retail,1744.0497860961073,10689.60357322177,12779.346640682123,Shipped,UPI,Email
+2024-09-12,Vikram,Smartwatch,Chennai,Krishna Sood,14307,2,Online,889.0,6115.075895330184,7302.924104669816,Pending,UPI,Referral
